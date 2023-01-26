@@ -24,6 +24,7 @@
 		A0AA1BB929831E7A00A46113 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0AA1BBC29831E7A00A46113 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0AA1BBE29831E7A00A46113 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0AA1BC829832CB000A46113 /* NewList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = NewList.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +57,48 @@
 		A0AA1BAF29831E7800A46113 /* AppDIONews */ = {
 			isa = PBXGroup;
 			children = (
-				A0AA1BB029831E7800A46113 /* AppDelegate.swift */,
-				A0AA1BB229831E7800A46113 /* SceneDelegate.swift */,
-				A0AA1BB429831E7800A46113 /* ViewController.swift */,
-				A0AA1BB629831E7800A46113 /* Main.storyboard */,
+				A0AA1BC929832D8700A46113 /* Models */,
+				A0AA1BC7298329AD00A46113 /* Views */,
+				A0AA1BC62983298100A46113 /* Controllers */,
+				A0AA1BC52983295700A46113 /* SupportingFiles */,
 				A0AA1BB929831E7A00A46113 /* Assets.xcassets */,
-				A0AA1BBB29831E7A00A46113 /* LaunchScreen.storyboard */,
 				A0AA1BBE29831E7A00A46113 /* Info.plist */,
 			);
 			path = AppDIONews;
+			sourceTree = "<group>";
+		};
+		A0AA1BC52983295700A46113 /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				A0AA1BB229831E7800A46113 /* SceneDelegate.swift */,
+				A0AA1BB029831E7800A46113 /* AppDelegate.swift */,
+				A0AA1BC829832CB000A46113 /* NewList.json */,
+			);
+			path = SupportingFiles;
+			sourceTree = "<group>";
+		};
+		A0AA1BC62983298100A46113 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				A0AA1BB429831E7800A46113 /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		A0AA1BC7298329AD00A46113 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A0AA1BBB29831E7A00A46113 /* LaunchScreen.storyboard */,
+				A0AA1BB629831E7800A46113 /* Main.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A0AA1BC929832D8700A46113 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
