@@ -13,6 +13,8 @@
 		A0AA1BB829831E7800A46113 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0AA1BB629831E7800A46113 /* Main.storyboard */; };
 		A0AA1BBA29831E7A00A46113 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0AA1BB929831E7A00A46113 /* Assets.xcassets */; };
 		A0AA1BBD29831E7A00A46113 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0AA1BBB29831E7A00A46113 /* LaunchScreen.storyboard */; };
+		A0AA1BCB29832E0300A46113 /* SourceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0AA1BCA29832E0300A46113 /* SourceModel.swift */; };
+		A0AA1BCD29832EA200A46113 /* NewsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0AA1BCC29832EA200A46113 /* NewsModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		A0AA1BBC29831E7A00A46113 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0AA1BBE29831E7A00A46113 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0AA1BC829832CB000A46113 /* NewList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = NewList.json; sourceTree = "<group>"; };
+		A0AA1BCA29832E0300A46113 /* SourceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceModel.swift; sourceTree = "<group>"; };
+		A0AA1BCC29832EA200A46113 /* NewsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		A0AA1BC929832D8700A46113 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				A0AA1BCA29832E0300A46113 /* SourceModel.swift */,
+				A0AA1BCC29832EA200A46113 /* NewsModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -174,7 +180,9 @@
 			files = (
 				A0AA1BB529831E7800A46113 /* ViewController.swift in Sources */,
 				A0AA1BB129831E7800A46113 /* AppDelegate.swift in Sources */,
+				A0AA1BCB29832E0300A46113 /* SourceModel.swift in Sources */,
 				A0AA1BB329831E7800A46113 /* SceneDelegate.swift in Sources */,
+				A0AA1BCD29832EA200A46113 /* NewsModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
