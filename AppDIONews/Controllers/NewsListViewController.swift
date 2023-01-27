@@ -29,6 +29,8 @@ class NewsListViewController: UIViewController {
     private func setupTableView() {
         self.newsListTableView.delegate = self
         self.newsListTableView.dataSource = self
+        // Chama a newsListTableView
+        self.newsListTableView.register(UINib(nibName: "NewstableViewCell", bundle: nil), forCellReuseIdentifier: "NewstableViewCell")
     }
     
     private func initLocalDataProvider() {
@@ -52,7 +54,16 @@ extension NewsListViewController: UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        return UITableViewCell()
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: "NewstableViewCell", for: indexPath) as? NewsTableViewCell else {
+            fatalError("Unable to dequeue subclassed cell")
+        }
+        
+        guard let newsList = newsList else {
+            fatalError("Does not have a news list")
+        }
+        
+        cell.news = newsList[indexPath.row]
+        return cell
     }
 }
 
