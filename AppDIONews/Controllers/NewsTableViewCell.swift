@@ -25,7 +25,7 @@ class NewsTableViewCell: UITableViewCell {
             self.authorLabel.text = news?.author
             self.titleLabel.text = news?.title
             self.descriptionLabel.text = news?.description
-            self.imageImageView.loadImage()
+            self.imageImageView.loadImage(from: news?.urlToImage)
             self.publishedLabel.text = news?.publishedAt.toString()
         }
     }
@@ -41,8 +41,29 @@ class NewsTableViewCell: UITableViewCell {
 }
 
 extension UIImageView {
-    func loadImage() {
-        self.image = UIImage(named: "no-image.png")
+    func downloaded(form url: URL, contentMode mode: ContentMode = .scaleAspectFit) {
+        contentMode = mode
+        URLSession.shared.dataTask(with: url) { data, response, error in
+            guard
+                let httpURLResponse = response as? HTTPURLResponse, httpURLResponse.statusCode == 200,
+                let mineType = response?.mimeType, mineType.hasPrefix("image"),
+                let data = data, error == nil,
+                let image = UIImage(data: data)
+            else {
+                DispatchQueue.main.async { [weak self] in
+                    self?.image = UIImage(named: "no-image.png")
+                }
+                return
+            }
+            DispatchQueue.main.async { [weak self] in
+                self?.image = image
+            }
+        }.resume()
+    }
+    
+    func loadImage(from link: String?, contentMode mode: ContentMode = .scaleAspectFit) {
+        guard let link = link, let url = URL(string: link) else { return }
+        downloaded(form: url, contentMode: contentMode)
     }
 }
 
