@@ -1,41 +1,15 @@
 [
         {
             "source": {
-                "id": null,
-                "name": "Brasil247.com"
-            },
-            "author": "Leonardo Sobreira",
-            "title": "Dino aciona AGU para questionar lei que facilita comércio ilegal de ouro - Brasil 247",
-            "description": "Lei atual permite que empresas comprem ouro de garimpeiros ilegais sem ter de verificar origem do metal precioso",
-            "url": "https://www.brasil247.com/meioambiente/dino-aciona-agu-para-questionar-lei-que-facilita-comercio-ilegal-de-ouro",
-            "urlToImage": "https://publisher-publish.s3.eu-central-1.amazonaws.com/pb-brasil247/swp/jtjeq9/media/20230126160124_31ed86ff64892215abd68883490cc20f911b5a09192bc8a0c045bfa61258d6f1.jpg",
-            "publishedAt": "2023-01-26T19:36:00Z",
-            "content": "Lei atual permite que empresas comprem ouro de garimpeiros ilegais sem ter de verificar origem do metal precioso\r\neditApoie o 247ICL247 - O ministro da Justiça, Flávio Dino, acionou a Advocacia-Geral… [+1367 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sicnoticias.pt"
-            },
-            "author": "SIC Notícias",
-            "title": "Encontrados túmulos com mais de 4.300 anos no Egito - SIC Notícias",
-            "description": "Foram descobertas várias esculturas e uma múmia, considerada a mais antiga e completa do Egito.",
-            "url": "https://sicnoticias.pt/mundo/2023-01-26-Encontrados-tumulos-com-mais-de-4.300-anos-no-Egito-4bf5a4a7",
-            "urlToImage": "https://images.impresa.pt/sicnot/2023-01-26-Tumulos-com-mais-de-4.300-anos-no-Egito--4-.JPG-aadf944c/1.91x1?wm=true&outputFormat=jpeg",
-            "publishedAt": "2023-01-26T19:15:14Z",
-            "content": "Uma equipa de arqueólogos encontrou túmulos com mais de 4.300 anos no Egito. São duas câmaras subterrâneas que contêm uma múmia, que os investigadores acreditam ser a mais antiga e completa a ser des… [+444 chars]"
-        },
-        {
-            "source": {
                 "id": "info-money",
                 "name": "InfoMoney"
             },
-            "author": "Bruna Furlani",
-            "title": "Americanas: mercado estima que dívida com investidores de debêntures alcance R$ 5 bilhões; agentes preparam assembleias - InfoMoney",
-            "description": "Já valor devido a detentores de uma CRA da Hortifruti, que foi adquirida pela Americanas, é de pouco mais de R$ 204 milhões",
-            "url": "https://www.infomoney.com.br/onde-investir/americanas-mercado-estima-que-divida-com-investidores-de-debentures-alcance-r-5-bilhoes-agentes-preparam-assembleias/",
-            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2023/01/lojas-americanas-amer3.jpg?quality=70",
-            "publishedAt": "2023-01-26T18:51:07Z",
+            "author": "Lara Rizério",
+            "title": "Se posse de Prates na Petrobras (PETR4) já era certa, por que as ações reagiram tão mal? - InfoMoney",
+            "description": "Ativos caíram nas duas últimas sessões, desde que decisão do Conselho foi anunciada; votação por unanimidade e rapidez no processo estão no radar",
+            "url": "https://www.infomoney.com.br/mercados/se-posse-de-prates-na-petrobras-petr4-ja-era-certa-por-que-as-acoes-reagiram-tao-mal-em-queda/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2023/01/52617698370_deefd639ca_k.jpg?quality=70",
+            "publishedAt": "2023-01-27T21:15:01Z",
             "content": null
         },
         {
@@ -44,38 +18,103 @@
                 "name": "Globo"
             },
             "author": null,
-            "title": "Anúncio de aluguel no Rio viraliza com 'minissuíte' com colchão ao lado de chuveiro e privada - Globo.com",
-            "description": "Segundo o site de hospedagens, o apartamento fica em Botafogo, na Zona Sul, e a diária sai por R$ 90. Anúncio gerou piadas e espanto nas redes sociais, e comentários no Airbnb são de aprovação.",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/01/26/anuncio-de-aluguel-no-rio-viraliza-com-mini-suite-com-colchao-ao-lado-de-chuveiro-e-privada.ghtml",
-            "urlToImage": "https://s2.glbimg.com/vYWqdVJgfVglKSmWoGViH9uLrjs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/X/F/rZs1DoQtG8x1AgIhBUvg/cama-3.jpg",
-            "publishedAt": "2023-01-26T18:38:11Z",
-            "content": "O dono de um apartamento, que fica em Botafogo, na Zona Sul do Rio de Janeiro, colocou um colchão ao lado de um box com chuveiro e privada e oferece o espaço como \"minissuíte\". A ideia do 'anfitrião'… [+1306 chars]"
+            "title": "Moraes envia à PGR pedido de suspensão da posse de deputados suspeitos de envolvimento em atos golpistas - Globo",
+            "description": "Ministro do STF deu prazo de 24 horas para o Ministério Público se manifestar sobre pedido apresentado por advogados. Posse na Câmara está marcada para a próxima quarta-feira (1º).",
+            "url": "https://g1.globo.com/politica/noticia/2023/01/27/moraes-envia-a-pgr-pedido-de-suspensao-da-posse-de-deputados-suspeitos-de-envolvimento-em-atos-golpistas.ghtml",
+            "urlToImage": "https://s2.glbimg.com/gYk2ZH4ycB6S-S6YuqJSjP1XdCU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/h/F/S7ozDVS1yshssP9WJFIQ/2023-01-14t012703z-1604053978-rc2qhx94bxhf-rtrmadp-3-brazil-politics.jpg",
+            "publishedAt": "2023-01-27T20:50:15Z",
+            "content": "O ministro deu prazo de 24 horas para que a PGR apresente manifestação sobre o caso. A posse dos deputados está marcada para a próxima quarta-feira (1º). \r\nO pedido foi feito pelo Grupo Prerrogativas… [+1441 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Ataque a tiros em sinagoga deixa 7 mortos e 10 feridos em Jerusalém - Globo",
+            "description": "Para a polícia israelense, trata-se de um ataque terrorista. Na quinta-feira, uma operação de Israel deixou 9 mortos na Cisjordânia.",
+            "url": "https://g1.globo.com/mundo/noticia/2023/01/27/ataque-a-tiros-deixa-7-mortos-e-10-feridos-em-jerusalem.ghtml",
+            "urlToImage": "https://s2.glbimg.com/eBwn_U_il3QRu5isOnSlsF5vTMc=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/11318156.jpg",
+            "publishedAt": "2023-01-27T20:04:10Z",
+            "content": "A polícia israelense descreveu o incidente como um ataque terrorista. Nenhum grupo reivindicou o ataque. Segundo a polícia, o atirador foi morto. \r\nEm Gaza, o porta-voz do Hamas, Hazem Qassem, disse … [+5612 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Cientistas criam robô capaz de mudar de forma, escapar de gaiola e mover objeto em órgão artificial - Globo",
+            "description": "Minirrobôs alternam entre estado líquido e sólido para trabalhar no conserto de eletrônicos ou até dentro do corpo humano.",
+            "url": "https://g1.globo.com/ciencia/noticia/2023/01/27/cientistas-criam-robo-capaz-de-mudar-de-forma-escapar-de-gaiola-e-mover-objeto-em-orgao-artificial.ghtml",
+            "urlToImage": "https://s2.glbimg.com/Mlg_Di1oNDQeCA9C9Jv9gANqG5I=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/H/B/6LBzSqTwO7VuzRtRCLwQ/gif-01.gif",
+            "publishedAt": "2023-01-27T19:45:35Z",
+            "content": "Cientistas afirmam ter desenvolvido um robô de metal que consegue mudar de forma, alternando entre o estado \"líquido\" e sólido. Ao se esticar, mover ou derreter, ele se torna macio e maleável para tr… [+126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": "Beatriz Rodrigues",
+            "title": "Marília desabafa sobre convivência com Fred Nicácio no BBB 23: \"Me sentia encurralada\" - Correio Braziliense",
+            "description": "Marília quebrou o silêncio sobre o que viveu ao lado de Fred Nicácio no BBB 23 e afirmou que o colega a podava",
+            "url": "https://observatoriodosfamosos.uol.com.br/noticias/marilia-desabafa-sobre-convivencia-com-fred-nicacio-no-bbb-23-me-sentia-encurralada",
+            "urlToImage": "https://observatoriodosfamosos.uol.com.br/portal/wp-content/uploads/2023/01/Fred-Nicacio-e-Marilia.jpg",
+            "publishedAt": "2023-01-27T19:40:00Z",
+            "content": "Marília participou do programa Mais Você, desta manhã de sexta-feira (27), após ser eliminada do BBB 23. A sister desabafou sobre um colega de confinamento, do qual ficou amarrada por alguns dias e e… [+1794 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Daniel Alves preso: pulseira eletrônica, sêmen na cabine e fotos apagadas; veja os desdobramentos mais recentes do caso - Globo",
+            "description": "Jogador está sendo acusado de estupro e agressão sexual na Espanha, onde está preso há uma semana. Após contradição no depoimento, ele afirmou que a relação foi consentida, o que a jovem de 23 anos nega.",
+            "url": "https://g1.globo.com/mundo/noticia/2023/01/27/daniel-alves-preso-pulseira-eletronica-semen-na-cabine-e-fotos-apagadas-veja-os-desdobramentos-mais-recentes-do-caso.ghtml",
+            "urlToImage": "https://s2.glbimg.com/9HqVNadENQpAiojMpRm4TSHOecw=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/11304289.jpg",
+            "publishedAt": "2023-01-27T19:27:19Z",
+            "content": "A investigação começou em 2 de janeiro. Em seu depoimento, considerado sólido pelas autoridades policiais, a jovem afirmou que foi forçada pelo jogador a sentar no colo dele, jogada no chão, agredida… [+4978 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Interventor Ricardo Cappelli divulga relatório final sobre atos golpistas em Brasília - Globo",
+            "description": "Documento foi protocolado no STF e será analisado pelo ministro Alexandre de Moraes, relator do caso na Corte.",
+            "url": "https://g1.globo.com/df/distrito-federal/ao-vivo/assista-inteventor-ricardo-cappelli-divulga-relatorio-final-sobre-atos-golpistas-em-brasilia.ghtml",
+            "urlToImage": "https://s2.glbimg.com/q-rEE3_2YvImqw3QimUohmI7-C0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/6/O/UuBeV2ThKo3IfIptAWNw/c1540-coletiva-celina-25012023-frame-119587.jpeg",
+            "publishedAt": "2023-01-27T19:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "PGR denuncia mais 150 suspeitos de participação em atos golpistas - Globo",
+            "description": "Denunciados são pessoas que foram detidas no acampamento golpista montado em frente ao QG do Exército em Brasília. Suspeitos são acusados de associação criminosa e incitação ao crime.",
+            "url": "https://g1.globo.com/politica/noticia/2023/01/27/pgr-denuncia-mais-150-suspeitos-de-participacao-em-atos-golpistas.ghtml",
+            "urlToImage": "https://s2.glbimg.com/Pt5AXLqi6Q--udTzoW2Dazystw4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Q/D/qvPkwUR86edakgbYOzIA/teste-gif-02.gif",
+            "publishedAt": "2023-01-27T19:09:08Z",
+            "content": "Agora, caberá ao plenário do STF decidir se aceita a denúncia e transforma os acusados em réus. Ainda não há data marcada para a análise. \r\n<ul><li>associação criminosa </li><li>incitação ao crime eq… [+1309 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Correiobraziliense.com.br"
             },
-            "author": "Darcianne Diogo",
-            "title": "Chacina no DF: em novo depoimento, presos revelam detalhes de crime - Correio Braziliense",
-            "description": "Três dos suspeitos — Horácio, Gideon e Fabrício  — estão presos e, nesta quinta-feira (26/1), foram transferidos do cárcere à 6ª DP para prestar novos depoimentos",
-            "url": "https://www.correiobraziliense.com.br/cidades-df/2023/01/5069108-chacina-no-df-em-novo-depoimento-presos-revelam-detalhes-de-crime.html",
-            "urlToImage": "https://midias.correiobraziliense.com.br/_midias/jpg/2023/01/26/675x450/1_whatsapp_image_2023_01_26_at_15_29_19-27325571.jpeg?20230126153222?20230126153222",
-            "publishedAt": "2023-01-26T18:29:00Z",
-            "content": "Após um longo depoimento de mais de três horas, os três acusados de envolvimento na maior chacina do Distrito Federal saíram da 6ª Delegacia de Polícia (Paranoá) em direção ao Complexo Penitenciário … [+1266 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "R7.com"
-            },
-            "author": "R7.com",
-            "title": "Rússia dispara míssil hipersônico após Alemanha e EUA enviarem tanques 'revolucionários' à Ucrânia - R7",
-            "description": "Um dia após mobilização internacional, Moscou realizou bombardeios que deixaram ao menos 11 pessoas mortas",
-            "url": "http://noticias.r7.com/internacional/fotos/russia-dispara-missil-hipersonico-apos-alemanha-e-eua-enviarem-tanques-revolucionarios-a-ucrania-26012023",
-            "urlToImage": "https://img.r7.com/images/bombardeio-ucrania-26012023144637068?crop_position=c&dimensions=340x191",
-            "publishedAt": "2023-01-26T18:13:00Z",
-            "content": "Depois de vários reveses militares, em meados do ano passado, o Kremlin mudou de estratégia e, em outubro, começou a atacar transformadores e usinas de energia da Ucrânia. Desde então, o número de ap… [+142 chars]"
+            "author": "Arthur de Souza",
+            "title": "Juíza pede que presos por atos terroristas voltem aos estados de origem - Correio Braziliense",
+            "description": "De acordo com a magistrada da VEP-DF, grande parte dos custodiados não mora na capital do país e a permanência deles pode causar 'efeitos negativos' na Seape-DF",
+            "url": "https://www.correiobraziliense.com.br/cidades-df/2023/01/5069389-juiza-pede-que-presos-por-atos-terroristas-voltem-aos-estados-de-origem.html",
+            "urlToImage": "https://midias.correiobraziliense.com.br/_midias/jpg/2023/01/08/675x450/1_esplanada_bolsonaristas5-27226938.jpeg?20230108200754?20230108200754",
+            "publishedAt": "2023-01-27T19:05:00Z",
+            "content": "Juíza da Vara de Execuções Penais do Distrito Federal (VEP-DF), Leila Cury pediu ao presidente do Tribunal de Justiça (TJDFT), desembargador José Cruz Macedo, que presos pelos atos golpistas do dia 8… [+2364 chars]"
         },
         {
             "source": {
@@ -83,12 +122,25 @@
                 "name": "Globo"
             },
             "author": null,
-            "title": "STF vai incluir imagens de recuo da PM que facilitou acesso de invasores à Corte em inquérito - Globo.com",
-            "description": "Caso deve ser analisado na investigação que apura suposta omissão de autoridades.",
-            "url": "https://g1.globo.com/politica/noticia/2023/01/26/stf-vai-incluir-em-inquerito-imagens-de-recuo-da-pm-que-facilitou-acesso-dos-invasores-a-corte.ghtml",
-            "urlToImage": "https://s2.glbimg.com/-p_GTTAprQkhXHpTuTNLvhidqrk=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/11311089.jpg",
-            "publishedAt": "2023-01-26T17:39:33Z",
-            "content": "Nesse inquérito, o Supremo apura se houve omissão de autoridades, como do governador afastado Ibaneis Rocha (MDB), do ex-secretário de Segurança Pública do DF e ex-ministro da Justiça Anderson Torres… [+1001 chars]"
+            "title": "Presidente do Peru pede ao Congresso que antecipe eleições para 2023 - Globo",
+            "description": "Originalmente, o mandato iria até 2026. O Congresso já aprovou, em primeira votação, uma antecipação para abril de 2024. Agora, o governo envia um projeto para antecipar ainda mais.",
+            "url": "https://g1.globo.com/mundo/noticia/2023/01/27/presidente-do-peru-pede-ao-congresso-que-antecipe-eleicoes-para-2023.ghtml",
+            "urlToImage": "https://s2.glbimg.com/jnAkJl_v-2gML8QL9WlAvpzKyls=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/11309224.jpg",
+            "publishedAt": "2023-01-27T18:57:35Z",
+            "content": "A medida é uma proposta para resolver a crise que o país vive. Há sete semanas, o Peru é palco de manifestações que pedem a renúncia de Boluarte. Como vice-presidente, ela assumiu a presidência do pa… [+1482 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Em.com.br"
+            },
+            "author": "Guilherme Peixoto",
+            "title": "Zema não participa de almoço de Lula com governadores em Brasília - Estado de Minas",
+            "description": "Governador compareceu a uma reunião convocada pelo presidente, mas não ficou para a segunda parte da agenda. Almoço foi marcado para o Itamaraty",
+            "url": "https://www.em.com.br/app/noticia/politica/2023/01/27/interna_politica,1450046/zema-nao-participa-de-almoco-de-lula-com-governadores-em-brasilia.shtml",
+            "urlToImage": "https://i.em.com.br/YghbJbyruHNXOAZz92WJh4T349E=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2023/01/27/1450046/o-governador-mineiro-romeu-zema-do-novo_1_86036.jpg",
+            "publishedAt": "2023-01-27T18:41:00Z",
+            "content": "O governador de Minas Gerais, Romeu Zema (Novo), no participou da segunda parte da agenda do presidente Luiz Incio Lula da Silva (PT) com os chefes dos Executivos estaduais, nesta sexta-feira (27/1).… [+2222 chars]"
         },
         {
             "source": {
@@ -96,129 +148,25 @@
                 "name": "Globo"
             },
             "author": null,
-            "title": "Destaque no título da Copinha, Kevin revela papos com Abel Ferreira no Palmeiras - Globo.com",
-            "description": "Atacante de 20 anos de idade foi eleito o craque da competição vencida pelo Verdão",
-            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2023/01/26/destaque-no-titulo-da-copinha-kevin-revela-papos-com-abel-ferreira-no-palmeiras.ghtml",
-            "urlToImage": "https://s2.glbimg.com/2Y16PkBGF7ePQ61_Fa1YcFK79Hk=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/11313776.jpg",
-            "publishedAt": "2023-01-26T17:37:38Z",
-            "content": "Dono de cinco gols e cinco assistências na campanha campeã, o atacante de 20 anos de idade ainda tem esta temporada no sub-20, mas pode iniciar o período de transição com o profissional. \r\nKevin no S… [+1997 chars]"
+            "title": "Cena de sexo oral, look Furacão 2000 e locação na Tijuquinha: o que se sabe sobre o novo clipe de Anitta - Globo",
+            "description": "Cantora e sua equipe gravaram em uma das comunidades visadas na guerra do tráfico com a milícia.",
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/01/27/cena-de-sexo-oral-look-furacao-2000-e-locacao-na-tijuquinha-o-que-se-sabe-sobre-o-novo-clipe-de-anitta.ghtml",
+            "urlToImage": "https://s2.glbimg.com/hhbMtFM7z77vqjhFHn15Otj0tbY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/8/6/ql62UBSvAewVDfaAGKiQ/whatsapp-image-2023-01-26-at-20.33.33.jpeg",
+            "publishedAt": "2023-01-27T18:31:40Z",
+            "content": "\"Trata-se de uma das cenas de um projeto audiovisual que ainda não podemos falar qual é. Ainda não podemos falar sobre este projeto\", informou a equipe da cantora ao g1.\r\n2 de 3\r\nAnitta em cena do cl… [+2978 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Uol.com.br"
+                "name": "Correiobraziliense.com.br"
             },
-            "author": "Flavio Latif;",
-            "title": "Mãe de Dani Alves deixa encontro com advogados do filho abalada na Espanha - UOL Esporte",
-            "description": "A mãe de Daniel Alves se reuniu hoje com os advogados do jogador em Barcelona.O jornal espanhol La Vanguardia flagrou a saída de Lúcia Alves do escritório, e ela estava visivelmente abalada.Ela foi abordada pelos jornalistas locais, não falou nenhuma pala",
-            "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/01/26/lucia-alves-mae-de-daniel-alves-se-encontra-com-advogados-em-barcelona.htm",
-            "urlToImage": "https://conteudo.imguol.com.br/c/esporte/ca/2023/01/26/lucia-alves-mae-de-daniel-alves-se-reuniu-com-os-advogados-do-jogador-em-barcelona-1674752660162_v2_615x300.jpg",
-            "publishedAt": "2023-01-26T17:17:41Z",
-            "content": "A mãe de Daniel Alves se reuniu hoje com os advogados do jogador em Barcelona.\r\n<ul><li>O jornal espanhol La Vanguardia flagrou a saída de Lúcia Alves do escritório, e ela estava visivelmente abalada… [+2700 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investing.com"
-            },
-            "author": "Jessica Melo",
-            "title": "Petrobras despenca após anúncio da posse de Prates; Goldman continua neutro Por Investing.com - Investing.com Brasil",
-            "description": "Petrobras despenca após anúncio da posse de Prates; Goldman continua neutro",
-            "url": "https://br.investing.com/news/stock-market-news/petrobras-despenca-apos-anuncio-da-posse-de-prates-goldman-continua-neutro-1078432",
-            "urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEJ0J0QP_L.jpg",
-            "publishedAt": "2023-01-26T17:08:00Z",
-            "content": "Investing.com - As ações da Petrobras lideravam as baixas do Ibovespa na tarde desta quinta-feira, 26, após a estatal de petróleo comunicar que Jean Paul Prates tomou posse como conselheiro e preside… [+1144 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uol.com.br"
-            },
-            "author": "CARAS Digital",
-            "title": "Anitta grava clipe em terreiro de candomblé e é alvo de intolerância religiosa - CARAS Brasil",
-            "description": "Candomblecista e filha de Logunedé, cantora Anitta grava clipe em terreiro com looks inspirados nos Orixás",
-            "url": "https://caras.uol.com.br/musica/anitta-grava-clipe-em-terreiro-de-candomble-e-e-alvo-de-intolerancia-religiosa.phtml",
-            "urlToImage": "https://caras.uol.com.br/media/_versions/2023-janeiro/anitta-grava-clipe-em-terreiro-de-candomble_widelg.jpg",
-            "publishedAt": "2023-01-26T16:16:23Z",
-            "content": "Candomblecista e filha de Logunedé, cantora Anitta grava clipe em terreiro com looks inspirados nos OrixásIniciando 2023 com muito trabalho, a cantora Anitta (29) já gravou o clipe de sua nova música… [+2807 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Da Redação",
-            "title": "Rotação do núcleo da Terra pode ter parado e arrisca inversão, diz estudo - VEJA",
-            "description": "Pesquisa monitorou menos mudança no movimento do núcleo na década de 2010 a 2020",
-            "url": "https://veja.abril.com.br/mundo/rotacao-do-nucleo-da-terra-pode-ter-parado-e-arrisca-inversao-diz-estudo/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/01/GettyImages-1199314969.jpg?quality=70&strip=info&w=680&h=453&crop=1",
-            "publishedAt": "2023-01-26T15:20:33Z",
-            "content": "Uma nova pesquisa, publicada na revista Nature Geoscience, sugere que a rotação do núcleo da Terra pode ter parado e poderia até se inverter para o sentido contrário. Desde 2009, os registros sísmico… [+2351 chars]"
-        },
-        {
-            "source": {
-                "id": "globo",
-                "name": "Globo"
-            },
-            "author": null,
-            "title": "Prova do Líder: cinco participantes serão vetados da disputa - Globo.com",
-            "description": "Líderes Bruna Griphao e Larissa podem vetar duas pessoas cada, e mais um participante será barrado por quem retornar do Quarto Secreto no BBB 23",
-            "url": "https://gshow.globo.com/realities/bbb/bbb-23/dentro-da-casa/noticia/prova-do-lider-cinco-participantes-serao-vetados-da-disputa.ghtml",
-            "urlToImage": "https://s2.glbimg.com/-mVK8IcFoWyO-MveeFwJ5gRMa6s=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/Q/R/fSQlbhT4aWowjBiBm2vg/fred-nicacio-e-marilia-observam-cristian-e-paula.png",
-            "publishedAt": "2023-01-26T15:11:13Z",
-            "content": "É dia de Prova do Líder no BBB 23! Nesta quinta-feira, 26/01, depois da Eliminação e do retorno de um participante do Quarto Secreto, um novo Líder será conhecido na casa. No entanto, nem todos os br… [+63 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Editalconcursosbrasil.com.br"
-            },
-            "author": "Lorena de Sousa",
-            "title": "ChatGPT: inteligência artificial será cobrada em breve; confira o preço - Edital Concursos Brasil",
-            "description": "Plataforma da OpenAI oferece uma espécie de chat em que o usuário pode tirar dúvidas sobre os mais diversos assuntos.",
-            "url": "https://editalconcursosbrasil.com.br/noticias/2023/01/chatgpt-inteligencia-artificial-sera-cobrada-em-breve-confira-o-preco/",
-            "urlToImage": "https://editalconcursosbrasil.com.br/wp-content/uploads/2023/01/chatgpt.jpg",
-            "publishedAt": "2023-01-26T14:40:00Z",
-            "content": "Más notícias para aqueles que amam o ChatGPT, a inteligência artificial (IA) da OpenAI. Quem quiser continuar usando a versão da plataforma com mais ferramentas terá que pagar uma mensalidade em brev… [+1982 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Clicrbs.com.br"
-            },
-            "author": "AFP",
-            "title": "Asteroide passará \"extremamente perto\" da Terra nesta quinta, diz Nasa - GZH",
-            "description": "O objeto passará a 3,6 mil quilômetros do nosso planeta, sobre o extremo sul da América do Sul, uma distância menor do que muitos satélites geoestacionários",
-            "url": "https://gauchazh.clicrbs.com.br/tecnologia/noticia/2023/01/asteroide-passara-extremamente-perto-da-terra-nesta-quinta-diz-nasa-cldd4lr8300mn01frwsmwf0yg.html",
-            "urlToImage": "https://www.rbsdirect.com.br/filestore/9/7/5/5/5/4/4_ef8ae1509374a07/4455579_98971b7b34881f5.jpg?w=1200&h=630&a=c&version=1575255600",
-            "publishedAt": "2023-01-26T14:37:11Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uol.com.br"
-            },
-            "author": null,
-            "title": "Rombo em contas externas chega a pior resultado em oito anos - O Antagonista",
-            "description": "Ao mesmo tempo, dados do Banco Central apontam que país teve maior volume de investimentos estrangeiros no país em uma década",
-            "url": "https://oantagonista.uol.com.br/economia/rombo-em-contas-externas-chega-a-pior-resultado-em-oito-anos/",
-            "urlToImage": "https://cdn.oantagonista.com/uploads/2019/11/dolar_agbrasil-1024x683.jpg",
-            "publishedAt": "2023-01-26T14:15:20Z",
-            "content": "As contas externas brasileiras registraram, em 2022, um déficit de US$ 55,7 bilhões, o pior resultado para os últimos sete anos – quando as contras tiveram um rombo de US$ 58,9 bilhões. Os dados, apr… [+907 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bolavip"
-            },
-            "author": "Rafael Belmont",
-            "title": "BBB 23: Bruno bebe demais, tem momento ‘quente’ com cobra decorativa e produção interrompe cena: “Chega” - Bolavip Brasil",
-            "description": "O brother, nesta última quarta-feira (26), se empolgou e usou a decoração para outros fins",
-            "url": "https://br.bolavip.com/entretenimento/BBB-23-Bruno-bebe-demais-tem-momento-quente-com-cobra-decorativa-e-producao-interrompe-cena-Chega-20230126-0050.html",
-            "urlToImage": "https://bolavip.com/__export/1674741985266/sites/bolavip/img/2023/01/26/whatsapp_image_2023-01-26_at_11_04_04_crop1674741873322.jpeg_242310155.jpeg",
-            "publishedAt": "2023-01-26T14:06:28Z",
-            "content": "Babado quentinho? Temos! Nesta última quarta-feira (26), Bruna Griphao e Larissa finalmente tiveram sua festa de Líderes no BBB 23. Enquanto Fred Nicácio e Marília acompanhavam tudo pelo Quarto Secre… [+1201 chars]"
+            "author": "Correio Braziliense",
+            "title": "Mulher de 24 anos morre depois de usar colher errada para mexer chá; entenda - Correio Braziliense",
+            "description": "Jovem estava fazendo uma viagem romântica para a África do Sul ao lado do noivo e tinha sido pedida em casamento poucos dias antes",
+            "url": "https://www.correiobraziliense.com.br/mundo/2023/01/5069366-mulher-de-24-anos-morre-depois-de-usar-colher-errada-para-mexer-cha-entenda.html",
+            "urlToImage": "https://midias.correiobraziliense.com.br/_midias/jpg/2023/01/27/675x450/1_mulher_britanica_morre_depois_de_usar_colher_errada_para_mexer_cha-27331545.jpg?20230127145223?20230127145223",
+            "publishedAt": "2023-01-27T18:09:00Z",
+            "content": "Uma mulher de 24 anos morreu ao usar a colher errada para mexer uma xícara de chá. A britânica Jess Prinsloo estava na África do Sul com o parceiro, Craig McKinnon, e tinha sido pedida em casamento a… [+1768 chars]"
         },
         {
             "source": {
@@ -226,25 +174,77 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Alexandre de Moraes aplica multa de R$ 1,2 ao Telegram por não bloquear canal de Nikolas Ferreira - Jovem Pan News - Bauru",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHaxgMyJJyTU",
-            "urlToImage": null,
-            "publishedAt": "2023-01-26T14:00:33Z",
+            "title": "Valdemar Costa Neto ecoa Bolsonaro e confirma intenção golpista, analisa Josias - UOL",
+            "description": "Para o colunista do UOL Josias de Souza, Valdemar Costa Neto, líder do PL, ecoa Bolsonaro e confirma intenção golpista.-------------------------Bem-vindo ao ...",
+            "url": "https://www.youtube.com/watch?v=38RpZ-L7ORc",
+            "urlToImage": "https://i.ytimg.com/vi/38RpZ-L7ORc/maxresdefault.jpg",
+            "publishedAt": "2023-01-27T17:52:04Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Opovo.com.br"
+                "name": "Omelete.com.br"
             },
-            "author": "Filipe Pereira",
-            "title": "Professores de Fortaleza paralisam atividades por reajuste do piso salarial do magistério - O POVO",
-            "description": "A categoria foi mobilizada pelo pelo Sindicato Único dos Trabalhadores em Educação do Ceará (Sindiute). Prefeitura de Fortaleza defende ter estudos avançado sobre o tema, que deve ser tratado também em Brasília",
-            "url": "https://www.opovo.com.br/noticias/politica/2023/01/26/professores-de-fortaleza-paralisam-atividades-por-reajuste-do-piso-salarial-do-magisterio.html",
-            "urlToImage": "https://www.opovo.com.br/_midias/jpg/2023/01/26/818x460/1_whatsapp_image_2023_01_26_at_11_13_42-20922520.jpeg",
-            "publishedAt": "2023-01-26T13:59:38Z",
-            "content": "Professores e funcionários das escolas de Fortaleza aprovaram em assembleia geral realizada na manhã desta quinta-feira, 26, a paralisação total das atividades. Os profissionais só retomam o ano leti… [+2986 chars]"
+            "author": "Flávio Pinto",
+            "title": "The Last of Us é renovada para 2ª temporada pela HBO - Omelete",
+            "description": "The Last of Us é renovada para 2ª temporada pela HBO",
+            "url": "https://www.omelete.com.br/series-tv/the-last-of-us-renovada-segunda-temporada",
+            "urlToImage": "https://cdn.ome.lt/wnghkRkzWBICKP0qjpbvv39PJVU=/1200x630/smart/extras/conteudos/thelastofus-bellaramsey_KOvmwaQ.png",
+            "publishedAt": "2023-01-27T17:00:30Z",
+            "content": "A HBO anunciou hoje (27) que The Last of Us voltará para uma segunda temporada. O anúncio foi feito pelas redes, veja: \r\nA emissora não divulgou uma data para o retorno da série, mas presume-se que a… [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Agazeta.com.br"
+            },
+            "author": null,
+            "title": "Empresário preso pela PF no ES alugou ônibus para levar golpistas a Brasília - A Gazeta ES",
+            "description": "Valfrido Chieppe Dias fretou veículo que levou 45 passageiros para a capital do país durante ataques aos Três Poderes. Ônibus foi apreendido ainda na capital federal",
+            "url": "https://www.agazeta.com.br/es/politica/empresario-preso-pela-pf-no-es-alugou-onibus-para-levar-golpistas-a-brasilia-0123",
+            "urlToImage": "https://midias.agazeta.com.br/2023/01/27/valfrido-chieppe-dias-preso-pela-policia-federal-foi-responsavel-por-alugar-onibus-que-levou-golpistas-a-brasilia-958518.jpg",
+            "publishedAt": "2023-01-27T16:14:46Z",
+            "content": "Valfrido Chieppe Dias fretou veículo que levou 45 passageiros para a capital do país durante ataques aos Três Poderes. Ônibus foi apreendido ainda na capital federal\r\nPublicado em 27 de janeiro de 20… [+3985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": null,
+            "title": "Contas públicas têm superávit de R$ 54,1 bilhões, o primeiro desde 2013 - UOL",
+            "description": "Governo reverte oito anos seguidos de rombo nas contas; perspectiva para 2023, porém, é negativa",
+            "url": "https://www1.folha.uol.com.br/mercado/2023/01/contas-publicas-tem-superavit-de-r-541-bilhoes-o-primeiro-desde-2013.shtml",
+            "urlToImage": "https://f.i.uol.com.br/fotografia/2021/11/25/163787658161a00365d2382_1637876581_3x2_md.jpg",
+            "publishedAt": "2023-01-27T16:13:00Z",
+            "content": "As contas do governo central tiveram um superávit de R$ 54,1 bilhões no ano de 2022, revertendo uma trajetória de oito anos consecutivos de déficit, informou o Tesouro Nacional nesta sexta-feira (27)… [+4441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lance.com.br"
+            },
+            "author": "LANCE!",
+            "title": "Globo define narrador para a decisão entre Palmeiras e Flamengo pela Supercopa do Brasil - LANCE!",
+            "description": "Decisão da Supercopa do Brasil no Mané Garrincha, em Brasília, será neste sábado, às 16h30<br>",
+            "url": "https://www.lance.com.br/fora-de-campo/globo-define-narrador-para-a-decisao-entre-palmeiras-e-flamengo-pela-supercopa-do-brasil.html",
+            "urlToImage": "https://www.lance.com.br/files/og_image/uploads/2020/11/05/5fa40ea7c8170.jpeg",
+            "publishedAt": "2023-01-27T15:27:10Z",
+            "content": "A TV Globo bateu o martelo e definiu quem será o narrador da decisão da Supercopa do Brasil, entre Palmeiras e Flamengo. Cleber Machado comandará a partida entre os rivais, neste sábado, no Mané Garr… [+1064 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Escolaeducacao.com.br"
+            },
+            "author": "Agência Texty",
+            "title": "Tipos de farinhas para diabéticos: Elas absorvem o açúcar no sangue! - Escola Educação",
+            "description": "A tradicional farinha de trigo é uma das principais contraindicações para pessoas diabéticas. Isso porque ela contém alto teor glicêmico e poucas fibras, uma combinação que intensifica o quadro da doença. Por isso, essas pessoas precisam fugir de mas",
+            "url": "https://escolaeducacao.com.br/tipos-de-farinhas-para-diabeticos-estas-farinhas-absorvem-o-acucar-no-sangue/",
+            "urlToImage": "https://escolaeducacao.com.br/wp-content/uploads/2023/01/tipos-de-farinhas-para-diabeticos-estas-farinhas-absorvem-o-acucar-no-sangue-1024x576.png",
+            "publishedAt": "2023-01-27T15:06:01Z",
+            "content": "A tradicional farinha de trigo é uma das principais contraindicações para pessoas diabéticas. Isso porque ela contém alto teor glicêmico e poucas fibras, uma combinação que intensifica o quadro da do… [+1955 chars]"
         },
         {
             "source": {
@@ -252,11 +252,11 @@
                 "name": "Globo"
             },
             "author": null,
-            "title": "Covid-19: Brasil começa a vacinar com bivalente da Pfizer em 27 de fevereiro - Globo.com",
-            "description": "Na 1ª etapa, serão vacinadas pessoas com 70 anos ou mais, imunocomprometidas, indígenas, ribeirinhos e quilombolas, seguidas de grupos de 60 a 69 anos, gestantes e profissionais da saúde.",
-            "url": "https://g1.globo.com/saude/coronavirus/noticia/2023/01/26/ministerio-da-saude-divulga-plano-de-vacinacao-contra-covid-19-para-2023.ghtml",
-            "urlToImage": "https://s2.glbimg.com/29h14MDa718clet1Er28HRIUpPY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Q/B/jJdjKgQPyRAACLBhrf9w/2022-12-07t112746z-566493248-rc2w0y9ua8es-rtrmadp-3-health-coronavirus-france.jpg",
-            "publishedAt": "2023-01-26T13:50:28Z",
-            "content": "A pasta anunciou que grupos mais expostos ao risco da doença e que foram vacinados com ao menos duas doses da vacina monovalente receberão a bivalente. \r\nNa primeira etapa, os grupos serão vacinados … [+3148 chars]"
+            "title": "Busca pelo rotativo do cartão de crédito bate novo recorde em 2022, informa Banco Central - Globo",
+            "description": "Foram concedidos no ano passado R$ 341,7 bilhões em crédito por meio do rotativo, que é a linha com a maior taxa de juros do mercado.",
+            "url": "https://g1.globo.com/economia/noticia/2023/01/27/busca-pelo-rotativo-do-cartao-de-credito-bate-novo-recorde-em-2022-informa-banco-central.ghtml",
+            "urlToImage": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1",
+            "publishedAt": "2023-01-27T14:43:32Z",
+            "content": "A série histórica da instituição, para anos fechados, tem início em 2012. Com isso, esse é o maior patamar em onze anos. \r\nO crédito rotativo do cartão de crédito é acionado por quem não consegue pag… [+2294 chars]"
         }
     ]

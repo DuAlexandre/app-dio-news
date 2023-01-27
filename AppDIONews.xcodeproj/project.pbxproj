@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A07AFC12298496D600D8C209 /* SystemExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07AFC11298496D500D8C209 /* SystemExtensions.swift */; };
 		A08770E729845E5A0044628F /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08770E529845E5A0044628F /* NewsTableViewCell.swift */; };
 		A08770E829845E5A0044628F /* NewsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A08770E629845E5A0044628F /* NewsTableViewCell.xib */; };
 		A08770EA29846A180044628F /* no-image.png in Resources */ = {isa = PBXBuildFile; fileRef = A08770E929846A180044628F /* no-image.png */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A07AFC11298496D500D8C209 /* SystemExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemExtensions.swift; sourceTree = "<group>"; };
 		A08770E529845E5A0044628F /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
 		A08770E629845E5A0044628F /* NewsTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = NewsTableViewCell.xib; path = ../Controllers/NewsTableViewCell.xib; sourceTree = "<group>"; };
 		A08770E929846A180044628F /* no-image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "no-image.png"; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				A0AA1BB029831E7800A46113 /* AppDelegate.swift */,
 				A0AA1BC829832CB000A46113 /* NewsList.json */,
 				A08770E929846A180044628F /* no-image.png */,
+				A07AFC11298496D500D8C209 /* SystemExtensions.swift */,
 			);
 			path = SupportingFiles;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A07AFC12298496D600D8C209 /* SystemExtensions.swift in Sources */,
 				A0AA1BB529831E7800A46113 /* NewsListViewController.swift in Sources */,
 				A0AA1BB129831E7800A46113 /* AppDelegate.swift in Sources */,
 				A0AA1BCB29832E0300A46113 /* SourceModel.swift in Sources */,

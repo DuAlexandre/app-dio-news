@@ -32,46 +32,19 @@ class NewsTableViewCell: UITableViewCell {
 
     override func awakeFromNib() {
         super.awakeFromNib()
+        
+        let tap = UITapGestureRecognizer(target: self, action: #selector(openLink))
+        self.linkImageView.isUserInteractionEnabled = true
+        self.linkImageView.addGestureRecognizer(tap)
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
     }
     
-}
-
-extension UIImageView {
-    func downloaded(form url: URL, contentMode mode: ContentMode = .scaleAspectFit) {
-        contentMode = mode
-        URLSession.shared.dataTask(with: url) { data, response, error in
-            guard
-                let httpURLResponse = response as? HTTPURLResponse, httpURLResponse.statusCode == 200,
-                let mineType = response?.mimeType, mineType.hasPrefix("image"),
-                let data = data, error == nil,
-                let image = UIImage(data: data)
-            else {
-                DispatchQueue.main.async { [weak self] in
-                    self?.image = UIImage(named: "no-image.png")
-                }
-                return
-            }
-            DispatchQueue.main.async { [weak self] in
-                self?.image = image
-            }
-        }.resume()
+    @IBAction func openLink() {
+        guard let news = news, let url = URL(string: news.url) else { return }
+        UIApplication.shared.open(url, options: [:], completionHandler: nil)
     }
     
-    func loadImage(from link: String?, contentMode mode: ContentMode = .scaleAspectFit) {
-        guard let link = link, let url = URL(string: link) else { return }
-        downloaded(form: url, contentMode: contentMode)
-    }
-}
-
-// Formata data para padrão PT-BR
-extension Date {
-    func toString(with formatter: String = "dd/MM/yyyy") -> String? {
-        let dateFormat = DateFormatter()
-        dateFormat.dateFormat = formatter
-        return dateFormat.string(from: self)
-    }
 }
