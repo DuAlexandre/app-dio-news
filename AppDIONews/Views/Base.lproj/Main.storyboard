@@ -12,9 +12,11 @@
         <scene sceneID="9K3-5H-Xfr">
             <objects>
                 <navigationController id="klC-uE-F2b" sceneMemberID="viewController">
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="PuS-vG-pDk">
-                        <rect key="frame" x="0.0" y="59" width="393" height="44"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" largeTitles="YES" id="PuS-vG-pDk">
+                        <rect key="frame" x="0.0" y="59" width="393" height="96"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" red="0.0" green="0.51372549020000002" blue="0.56078431370000004" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="barTintColor" red="0.0" green="0.51372549019607838" blue="0.5607843137254902" alpha="1" colorSpace="calibratedRGB"/>
                     </navigationBar>
                     <connections>
                         <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="2Tc-7u-nyI"/>
@@ -24,7 +26,7 @@
             </objects>
             <point key="canvasLocation" x="-717" y="-35"/>
         </scene>
-        <!--DIO Noitícias-->
+        <!--DIO Notícias-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="NewsListViewController" customModule="AppDIONews" customModuleProvider="target" sceneMemberID="viewController">
@@ -33,12 +35,12 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="Arz-ff-37j">
-                                <rect key="frame" x="0.0" y="103" width="393" height="715"/>
+                                <rect key="frame" x="0.0" y="155" width="393" height="663"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </tableView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.0" green="0.51372549020000002" blue="0.56078431370000004" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Arz-ff-37j" secondAttribute="trailing" id="IUW-YH-8XX"/>
                             <constraint firstItem="Arz-ff-37j" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="LGF-VA-NZg"/>
@@ -46,7 +48,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Arz-ff-37j" secondAttribute="bottom" id="osz-Y9-okV"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="DIO Noitícias" id="5yJ-ER-Ftp"/>
+                    <navigationItem key="navigationItem" title="DIO Notícias" id="5yJ-ER-Ftp"/>
                     <connections>
                         <outlet property="newsListTableView" destination="Arz-ff-37j" id="Wae-gO-qWb"/>
                     </connections>
