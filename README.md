@@ -90,13 +90,13 @@ git clone git@github.com:DuAlexandre/app-dio-news.git
 <br>
 
 <p align="center">
-  <img src="./AppDIONews/SupportingFiles/pics/Captura de Tela 2023-01-28 às 18.45.51.png" alt="print1">
+  <img src="./AppDIONews/SupportingFiles/pics/print10.png" alt="print1">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="./AppDIONews/SupportingFiles/pics/Captura de Tela 2023-01-28 às 18.46.4.png" alt="print2">
+  <img src="./AppDIONews/SupportingFiles/pics/print20.png" alt="print2">
 </p>
 
 <br>
