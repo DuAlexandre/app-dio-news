@@ -27,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A04E29792985C6A100EB82E4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A07AFC11298496D500D8C209 /* SystemExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemExtensions.swift; sourceTree = "<group>"; };
 		A07AFC1329849CA200D8C209 /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
 		A08770E529845E5A0044628F /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
@@ -70,6 +71,7 @@
 		A0AA1BA429831E7800A46113 = {
 			isa = PBXGroup;
 			children = (
+				A04E29792985C6A100EB82E4 /* README.md */,
 				A0AA1BAF29831E7800A46113 /* AppDIONews */,
 				A0AA1BAE29831E7800A46113 /* Products */,
 			);
