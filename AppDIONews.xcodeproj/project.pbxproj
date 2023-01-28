@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A07AFC12298496D600D8C209 /* SystemExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07AFC11298496D500D8C209 /* SystemExtensions.swift */; };
+		A07AFC1429849CA300D8C209 /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07AFC1329849CA200D8C209 /* NewsViewController.swift */; };
 		A08770E729845E5A0044628F /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08770E529845E5A0044628F /* NewsTableViewCell.swift */; };
 		A08770E829845E5A0044628F /* NewsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A08770E629845E5A0044628F /* NewsTableViewCell.xib */; };
 		A08770EA29846A180044628F /* no-image.png in Resources */ = {isa = PBXBuildFile; fileRef = A08770E929846A180044628F /* no-image.png */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		A07AFC11298496D500D8C209 /* SystemExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemExtensions.swift; sourceTree = "<group>"; };
+		A07AFC1329849CA200D8C209 /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
 		A08770E529845E5A0044628F /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
 		A08770E629845E5A0044628F /* NewsTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = NewsTableViewCell.xib; path = ../Controllers/NewsTableViewCell.xib; sourceTree = "<group>"; };
 		A08770E929846A180044628F /* no-image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "no-image.png"; sourceTree = "<group>"; };
@@ -57,6 +59,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A07A86D6298546F9005EFE78 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				A08770E529845E5A0044628F /* NewsTableViewCell.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
 		A0AA1BA429831E7800A46113 = {
 			isa = PBXGroup;
 			children = (
@@ -102,8 +112,9 @@
 		A0AA1BC62983298100A46113 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				A07A86D6298546F9005EFE78 /* Components */,
 				A0AA1BB429831E7800A46113 /* NewsListViewController.swift */,
-				A08770E529845E5A0044628F /* NewsTableViewCell.swift */,
+				A07AFC1329849CA200D8C209 /* NewsViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -223,6 +234,7 @@
 				A0AA1BB529831E7800A46113 /* NewsListViewController.swift in Sources */,
 				A0AA1BB129831E7800A46113 /* AppDelegate.swift in Sources */,
 				A0AA1BCB29832E0300A46113 /* SourceModel.swift in Sources */,
+				A07AFC1429849CA300D8C209 /* NewsViewController.swift in Sources */,
 				A0AA1BD52983379000A46113 /* NewsListLocalDataProvider.swift in Sources */,
 				A0AA1BB329831E7800A46113 /* SceneDelegate.swift in Sources */,
 				A0AA1BD3298335B000A46113 /* GenericDataProvider.swift in Sources */,
@@ -372,7 +384,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				"ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME[sdk=*]" = Universal;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -402,7 +414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;

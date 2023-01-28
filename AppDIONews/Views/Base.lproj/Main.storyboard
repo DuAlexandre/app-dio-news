@@ -17,6 +17,12 @@
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" red="0.0" green="0.51372549020000002" blue="0.56078431370000004" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="barTintColor" red="0.0" green="0.51372549019607838" blue="0.5607843137254902" alpha="1" colorSpace="calibratedRGB"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </textAttributes>
+                        <textAttributes key="largeTitleTextAttributes">
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </textAttributes>
                     </navigationBar>
                     <connections>
                         <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="2Tc-7u-nyI"/>
@@ -51,13 +57,70 @@
                     <navigationItem key="navigationItem" title="DIO Notícias" id="5yJ-ER-Ftp"/>
                     <connections>
                         <outlet property="newsListTableView" destination="Arz-ff-37j" id="Wae-gO-qWb"/>
+                        <segue destination="NQP-rk-Lth" kind="show" identifier="ShowNewsViewController" id="7Hh-Vr-8GC"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="118" y="-34"/>
+            <point key="canvasLocation" x="150" y="-35"/>
+        </scene>
+        <!--Título-->
+        <scene sceneID="fwA-YY-Qod">
+            <objects>
+                <viewController id="NQP-rk-Lth" customClass="NewsViewController" customModule="AppDIONews" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="WEQ-qD-VNj">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="odi-pr-lrg">
+                                <rect key="frame" x="0.0" y="103" width="393" height="715"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <wkWebViewConfiguration key="configuration">
+                                    <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                                    <wkPreferences key="preferences"/>
+                                </wkWebViewConfiguration>
+                            </wkWebView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="icA-ZF-zCK">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                                <subviews>
+                                    <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="large" translatesAutoresizingMaskIntoConstraints="NO" id="9Fw-o5-89Q">
+                                        <rect key="frame" x="178" y="407.66666666666669" width="37" height="37"/>
+                                        <color key="color" red="0.0" green="0.51372549020000002" blue="0.56078431370000004" alpha="1" colorSpace="calibratedRGB"/>
+                                    </activityIndicatorView>
+                                </subviews>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.30498863371792218" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="9Fw-o5-89Q" firstAttribute="centerY" secondItem="icA-ZF-zCK" secondAttribute="centerY" id="1Tq-Sv-4St"/>
+                                    <constraint firstItem="9Fw-o5-89Q" firstAttribute="centerX" secondItem="icA-ZF-zCK" secondAttribute="centerX" id="tHu-Ld-pZG"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="2YE-p3-LLY"/>
+                        <color key="backgroundColor" red="0.0" green="0.51372549020000002" blue="0.56078431370000004" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="odi-pr-lrg" firstAttribute="top" secondItem="2YE-p3-LLY" secondAttribute="top" id="Epn-HA-R4w"/>
+                            <constraint firstItem="odi-pr-lrg" firstAttribute="leading" secondItem="2YE-p3-LLY" secondAttribute="leading" id="Q9A-Z4-W8L"/>
+                            <constraint firstItem="icA-ZF-zCK" firstAttribute="centerY" secondItem="WEQ-qD-VNj" secondAttribute="centerY" id="Vhs-bg-Ig2"/>
+                            <constraint firstItem="2YE-p3-LLY" firstAttribute="bottom" secondItem="odi-pr-lrg" secondAttribute="bottom" id="bbl-0S-fwX"/>
+                            <constraint firstItem="icA-ZF-zCK" firstAttribute="width" secondItem="WEQ-qD-VNj" secondAttribute="width" id="fO4-vP-AwW"/>
+                            <constraint firstItem="2YE-p3-LLY" firstAttribute="trailing" secondItem="odi-pr-lrg" secondAttribute="trailing" id="fQu-Ly-kex"/>
+                            <constraint firstItem="icA-ZF-zCK" firstAttribute="centerX" secondItem="WEQ-qD-VNj" secondAttribute="centerX" id="nNk-Wp-RJP"/>
+                            <constraint firstItem="icA-ZF-zCK" firstAttribute="height" secondItem="WEQ-qD-VNj" secondAttribute="height" id="sfF-nC-7vC"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="Título" largeTitleDisplayMode="never" id="vsw-91-pVN"/>
+                    <connections>
+                        <outlet property="loadingActivityIndicator" destination="9Fw-o5-89Q" id="nLY-0p-XUB"/>
+                        <outlet property="loadingView" destination="icA-ZF-zCK" id="AJc-mo-9Wb"/>
+                        <outlet property="newsWebView" destination="odi-pr-lrg" id="bSF-mB-fyG"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="FWu-GR-G4e" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="962.59541984732823" y="-35.211267605633807"/>
         </scene>
     </scenes>
+    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
     <resources>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>

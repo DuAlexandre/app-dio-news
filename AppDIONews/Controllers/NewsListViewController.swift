@@ -25,6 +25,13 @@ class NewsListViewController: UIViewController {
         self.setupTableView()
         self.initLocalDataProvider()
     }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "ShowNewsViewController", let destination =
+            segue.destination as? NewsViewController {
+            destination.news = sender as? NewsModel
+        }
+    }
 
     private func setupTableView() {
         self.newsListTableView.delegate = self
@@ -44,11 +51,15 @@ class NewsListViewController: UIViewController {
 extension NewsListViewController: UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        print("didSelectRowAt")
+        guard let newsList = newsList else {
+            fatalError("The selected news was not found!")
+        }
+        performSegue(withIdentifier: "ShowNewsViewController", sender: newsList[indexPath.row])
     }
 }
 
 extension NewsListViewController: UITableViewDataSource {
+    
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return self.newsList?.count ?? 0
     }
@@ -63,6 +74,7 @@ extension NewsListViewController: UITableViewDataSource {
         }
         
         cell.news = newsList[indexPath.row]
+        cell.selectionStyle = .none
         return cell
     }
 }
