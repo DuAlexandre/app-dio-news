@@ -1,28 +1,15 @@
 [
         {
             "source": {
-                "id": null,
-                "name": "Escolaeducacao.com.br"
+                "id": "info-money",
+                "name": "InfoMoney"
             },
-            "author": "Agência Texty",
-            "title": "Telescópio Hubble: veja mais sobre o primeiro telescópio em órbita - Escola Educação",
-            "description": "Há mais de 30 anos, foi colocado em órbita um telescópio com o objetivo de compreender a imensidão do universo. Essa foi uma grande revolução da ciência, afinal, não é todo dia que um telescópio vai para a órbita. Você sabia que esse telescópio, cham",
-            "url": "https://escolaeducacao.com.br/telescopio-hubble-veja-mais-sobre-o-primeiro-telescopio-em-orbita/",
-            "urlToImage": "https://escolaeducacao.com.br/wp-content/uploads/2023/01/telescopio-veja-o-primeiro-telescopio-em-orbita-1024x576.png",
-            "publishedAt": "2023-01-28T17:01:10Z",
-            "content": "Há mais de 30 anos, foi colocado em órbita um telescópio com o objetivo de compreender a imensidão do universo. Essa foi uma grande revolução da ciência, afinal, não é todo dia que um telescópio vai … [+2115 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Palmeiras x Flamengo - AO VIVO - 28/01/2023 - Supercopa do Brasil - Jovem Pan Esportes",
-            "description": "Jogo Palmeiras x Flamengo ao vivo hoje: assista à transmissão com imagem dos jornalistas da Jovem Pan Esportes. Narração de Nilson Cesar, comentários de Maur...",
-            "url": "https://www.youtube.com/watch?v=WXenYn09QnA",
-            "urlToImage": "https://i.ytimg.com/vi/WXenYn09QnA/maxresdefault_live.jpg",
-            "publishedAt": "2023-01-28T16:59:34Z",
+            "author": "Lara Rizério",
+            "title": "Se posse de Prates na Petrobras (PETR4) já era certa, por que as ações reagiram tão mal? - InfoMoney",
+            "description": "Ativos caíram nas duas últimas sessões, desde que decisão do Conselho foi anunciada; votação por unanimidade e rapidez no processo estão no radar",
+            "url": "https://www.infomoney.com.br/mercados/se-posse-de-prates-na-petrobras-petr4-ja-era-certa-por-que-as-acoes-reagiram-tao-mal-em-queda/",
+            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2023/01/52617698370_deefd639ca_k.jpg?quality=70",
+            "publishedAt": "2023-01-27T21:15:01Z",
             "content": null
         },
         {
@@ -31,25 +18,51 @@
                 "name": "Globo"
             },
             "author": null,
-            "title": "Morre Yanomami mãe de criança com desnutrição grave fotografada em hospital; Conselho de Saúde relata novos óbitos - Globo",
-            "description": "Mulher Yanomami, de 33 anos, morreu no Hospital Geral de Roraima, onde estava internada por desnutrição grave. Filhas dela estão internadas pelo mesmo motivo no Hospital da Criança.",
-            "url": "https://g1.globo.com/rr/roraima/noticia/2023/01/28/morre-em-hospital-yanomami-mae-de-criancas-internadas-e-conselho-de-saude-relata-novos-obitos-na-terra-indigena.ghtml",
-            "urlToImage": "https://s2.glbimg.com/v6cwRnH-cLEg6Qp_3JCxmj5Sb0I=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/l/6/Un5jHwQfql10ugkfiLEQ/menina.jpg",
-            "publishedAt": "2023-01-28T16:50:36Z",
-            "content": "O pai das meninas, também doente, as acompanhava no Hospital da Criança Santo Antônio. Ele foi informado sobre a morte da esposa na unidade ainda na sexta e decidiu acompanhar o corpo até a comunidad… [+2423 chars]"
+            "title": "Moraes envia à PGR pedido de suspensão da posse de deputados suspeitos de envolvimento em atos golpistas - Globo",
+            "description": "Ministro do STF deu prazo de 24 horas para o Ministério Público se manifestar sobre pedido apresentado por advogados. Posse na Câmara está marcada para a próxima quarta-feira (1º).",
+            "url": "https://g1.globo.com/politica/noticia/2023/01/27/moraes-envia-a-pgr-pedido-de-suspensao-da-posse-de-deputados-suspeitos-de-envolvimento-em-atos-golpistas.ghtml",
+            "urlToImage": "https://s2.glbimg.com/gYk2ZH4ycB6S-S6YuqJSjP1XdCU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/h/F/S7ozDVS1yshssP9WJFIQ/2023-01-14t012703z-1604053978-rc2qhx94bxhf-rtrmadp-3-brazil-politics.jpg",
+            "publishedAt": "2023-01-27T20:50:15Z",
+            "content": "O ministro deu prazo de 24 horas para que a PGR apresente manifestação sobre o caso. A posse dos deputados está marcada para a próxima quarta-feira (1º). \r\nO pedido foi feito pelo Grupo Prerrogativas… [+1441 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Ataque a tiros em sinagoga deixa 7 mortos e 10 feridos em Jerusalém - Globo",
+            "description": "Para a polícia israelense, trata-se de um ataque terrorista. Na quinta-feira, uma operação de Israel deixou 9 mortos na Cisjordânia.",
+            "url": "https://g1.globo.com/mundo/noticia/2023/01/27/ataque-a-tiros-deixa-7-mortos-e-10-feridos-em-jerusalem.ghtml",
+            "urlToImage": "https://s2.glbimg.com/eBwn_U_il3QRu5isOnSlsF5vTMc=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/11318156.jpg",
+            "publishedAt": "2023-01-27T20:04:10Z",
+            "content": "A polícia israelense descreveu o incidente como um ataque terrorista. Nenhum grupo reivindicou o ataque. Segundo a polícia, o atirador foi morto. \r\nEm Gaza, o porta-voz do Hamas, Hazem Qassem, disse … [+5612 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Cientistas criam robô capaz de mudar de forma, escapar de gaiola e mover objeto em órgão artificial - Globo",
+            "description": "Minirrobôs alternam entre estado líquido e sólido para trabalhar no conserto de eletrônicos ou até dentro do corpo humano.",
+            "url": "https://g1.globo.com/ciencia/noticia/2023/01/27/cientistas-criam-robo-capaz-de-mudar-de-forma-escapar-de-gaiola-e-mover-objeto-em-orgao-artificial.ghtml",
+            "urlToImage": "https://s2.glbimg.com/Mlg_Di1oNDQeCA9C9Jv9gANqG5I=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/H/B/6LBzSqTwO7VuzRtRCLwQ/gif-01.gif",
+            "publishedAt": "2023-01-27T19:45:35Z",
+            "content": "Cientistas afirmam ter desenvolvido um robô de metal que consegue mudar de forma, alternando entre o estado \"líquido\" e sólido. Ao se esticar, mover ou derreter, ele se torna macio e maleável para tr… [+126 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Escolaeducacao.com.br"
+                "name": "Uol.com.br"
             },
-            "author": "Bruna Machado",
-            "title": "Esquecido? Este remédio pode ajudar você a se lembrar das coisas - Escola Educação",
-            "description": "O roflumilast é um medicamento já utilizado para diminuir o avanço da doença pulmonar obstrutiva crônica grave, além de auxiliar no tratamento de condições inflamatórias do pulmão, sendo sintetizado em 1993. Entretanto, cientistas podem ter descobert",
-            "url": "https://escolaeducacao.com.br/esquecido-um-novo-remedio-pode-ajudar-voce-a-se-lembrar-das-coisas/",
-            "urlToImage": "https://escolaeducacao.com.br/wp-content/uploads/2023/01/exercitar-sua-memoria.jpg",
-            "publishedAt": "2023-01-28T16:46:11Z",
-            "content": "O roflumilast é um medicamento já utilizado para diminuir o avanço da doença pulmonar obstrutiva crônica grave, além de auxiliar no tratamento de condições inflamatórias do pulmão, sendo sintetizado … [+1928 chars]"
+            "author": "Beatriz Rodrigues",
+            "title": "Marília desabafa sobre convivência com Fred Nicácio no BBB 23: \"Me sentia encurralada\" - Correio Braziliense",
+            "description": "Marília quebrou o silêncio sobre o que viveu ao lado de Fred Nicácio no BBB 23 e afirmou que o colega a podava",
+            "url": "https://observatoriodosfamosos.uol.com.br/noticias/marilia-desabafa-sobre-convivencia-com-fred-nicacio-no-bbb-23-me-sentia-encurralada",
+            "urlToImage": "https://observatoriodosfamosos.uol.com.br/portal/wp-content/uploads/2023/01/Fred-Nicacio-e-Marilia.jpg",
+            "publishedAt": "2023-01-27T19:40:00Z",
+            "content": "Marília participou do programa Mais Você, desta manhã de sexta-feira (27), após ser eliminada do BBB 23. A sister desabafou sobre um colega de confinamento, do qual ficou amarrada por alguns dias e e… [+1794 chars]"
         },
         {
             "source": {
@@ -57,12 +70,12 @@
                 "name": "Globo"
             },
             "author": null,
-            "title": "Vana Lopes, ativista e 1ª a denunciar Roger Abdelmassih, morre em SP - Globo",
-            "description": "A informação foi confirmada por Maria do Carmo Santos, presidente do Vítimas Unidas, criado por Vana com um grupo de mulheres abusadas por Abdelmassih.",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2023/01/28/vana-lopes-ativista-e-1a-a-denunciar-roger-abdelmassih-morre-em-sp.ghtml",
-            "urlToImage": "https://s2.glbimg.com/04Q4C91XsZSLlz2O9pB4KMBeGOU=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2014/08/21/age20140820380.jpg",
-            "publishedAt": "2023-01-28T16:36:00Z",
-            "content": "A informação foi confirmada por Maria do Carmo Santos, presidente do grupo Vítimas Unidas, criado por Vana com um grupo de mulheres abusadas por Abdelmassih. \r\nSegundo Maria do Carmo, Vana teve um câ… [+3277 chars]"
+            "title": "Daniel Alves preso: pulseira eletrônica, sêmen na cabine e fotos apagadas; veja os desdobramentos mais recentes do caso - Globo",
+            "description": "Jogador está sendo acusado de estupro e agressão sexual na Espanha, onde está preso há uma semana. Após contradição no depoimento, ele afirmou que a relação foi consentida, o que a jovem de 23 anos nega.",
+            "url": "https://g1.globo.com/mundo/noticia/2023/01/27/daniel-alves-preso-pulseira-eletronica-semen-na-cabine-e-fotos-apagadas-veja-os-desdobramentos-mais-recentes-do-caso.ghtml",
+            "urlToImage": "https://s2.glbimg.com/9HqVNadENQpAiojMpRm4TSHOecw=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/11304289.jpg",
+            "publishedAt": "2023-01-27T19:27:19Z",
+            "content": "A investigação começou em 2 de janeiro. Em seu depoimento, considerado sólido pelas autoridades policiais, a jovem afirmou que foi forçada pelo jogador a sentar no colo dele, jogada no chão, agredida… [+4978 chars]"
         },
         {
             "source": {
@@ -70,12 +83,129 @@
                 "name": "Globo"
             },
             "author": null,
-            "title": "Fred Nicácio, Eliezer, Rodrigo Mussi e mais: veja o antes e depois das harmonizações faciais de participantes do BBB - Globo",
-            "description": "Procedimentos estéticos se tornaram o centro de um debate na internet após o médico Fred Nicácio, que está no 'BBB 23', comentar a aparência de um outro brother.",
-            "url": "https://g1.globo.com/pop-arte/noticia/2023/01/28/fred-nicacio-eliezer-rodrigo-mussi-e-mais-veja-o-antes-e-depois-das-harmonizacoes-faciais-de-participantes-do-bbb.ghtml",
-            "urlToImage": "https://s2.glbimg.com/v6nTOjLR6ATnNHuwXbWT1H5s50M=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/J/dygScuT2KO9fcwOzzCxA/fred-nicacio-bbb-23.jpg",
-            "publishedAt": "2023-01-28T15:53:35Z",
-            "content": "Enquanto estava no \"Quarto Secreto\", Fred disse que Bruno \"não chama a atenção pela beleza\" e complementou: \"Todo mundo aqui é bonito. Bota o Bruno no meio aqui, ele destoa do resto\". \r\nNo mesmo dia,… [+1416 chars]"
+            "title": "Interventor Ricardo Cappelli divulga relatório final sobre atos golpistas em Brasília - Globo",
+            "description": "Documento foi protocolado no STF e será analisado pelo ministro Alexandre de Moraes, relator do caso na Corte.",
+            "url": "https://g1.globo.com/df/distrito-federal/ao-vivo/assista-inteventor-ricardo-cappelli-divulga-relatorio-final-sobre-atos-golpistas-em-brasilia.ghtml",
+            "urlToImage": "https://s2.glbimg.com/q-rEE3_2YvImqw3QimUohmI7-C0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/6/O/UuBeV2ThKo3IfIptAWNw/c1540-coletiva-celina-25012023-frame-119587.jpeg",
+            "publishedAt": "2023-01-27T19:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "PGR denuncia mais 150 suspeitos de participação em atos golpistas - Globo",
+            "description": "Denunciados são pessoas que foram detidas no acampamento golpista montado em frente ao QG do Exército em Brasília. Suspeitos são acusados de associação criminosa e incitação ao crime.",
+            "url": "https://g1.globo.com/politica/noticia/2023/01/27/pgr-denuncia-mais-150-suspeitos-de-participacao-em-atos-golpistas.ghtml",
+            "urlToImage": "https://s2.glbimg.com/Pt5AXLqi6Q--udTzoW2Dazystw4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Q/D/qvPkwUR86edakgbYOzIA/teste-gif-02.gif",
+            "publishedAt": "2023-01-27T19:09:08Z",
+            "content": "Agora, caberá ao plenário do STF decidir se aceita a denúncia e transforma os acusados em réus. Ainda não há data marcada para a análise. \r\n<ul><li>associação criminosa </li><li>incitação ao crime eq… [+1309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Correiobraziliense.com.br"
+            },
+            "author": "Arthur de Souza",
+            "title": "Juíza pede que presos por atos terroristas voltem aos estados de origem - Correio Braziliense",
+            "description": "De acordo com a magistrada da VEP-DF, grande parte dos custodiados não mora na capital do país e a permanência deles pode causar 'efeitos negativos' na Seape-DF",
+            "url": "https://www.correiobraziliense.com.br/cidades-df/2023/01/5069389-juiza-pede-que-presos-por-atos-terroristas-voltem-aos-estados-de-origem.html",
+            "urlToImage": "https://midias.correiobraziliense.com.br/_midias/jpg/2023/01/08/675x450/1_esplanada_bolsonaristas5-27226938.jpeg?20230108200754?20230108200754",
+            "publishedAt": "2023-01-27T19:05:00Z",
+            "content": "Juíza da Vara de Execuções Penais do Distrito Federal (VEP-DF), Leila Cury pediu ao presidente do Tribunal de Justiça (TJDFT), desembargador José Cruz Macedo, que presos pelos atos golpistas do dia 8… [+2364 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Presidente do Peru pede ao Congresso que antecipe eleições para 2023 - Globo",
+            "description": "Originalmente, o mandato iria até 2026. O Congresso já aprovou, em primeira votação, uma antecipação para abril de 2024. Agora, o governo envia um projeto para antecipar ainda mais.",
+            "url": "https://g1.globo.com/mundo/noticia/2023/01/27/presidente-do-peru-pede-ao-congresso-que-antecipe-eleicoes-para-2023.ghtml",
+            "urlToImage": "https://s2.glbimg.com/jnAkJl_v-2gML8QL9WlAvpzKyls=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/11309224.jpg",
+            "publishedAt": "2023-01-27T18:57:35Z",
+            "content": "A medida é uma proposta para resolver a crise que o país vive. Há sete semanas, o Peru é palco de manifestações que pedem a renúncia de Boluarte. Como vice-presidente, ela assumiu a presidência do pa… [+1482 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Em.com.br"
+            },
+            "author": "Guilherme Peixoto",
+            "title": "Zema não participa de almoço de Lula com governadores em Brasília - Estado de Minas",
+            "description": "Governador compareceu a uma reunião convocada pelo presidente, mas não ficou para a segunda parte da agenda. Almoço foi marcado para o Itamaraty",
+            "url": "https://www.em.com.br/app/noticia/politica/2023/01/27/interna_politica,1450046/zema-nao-participa-de-almoco-de-lula-com-governadores-em-brasilia.shtml",
+            "urlToImage": "https://i.em.com.br/YghbJbyruHNXOAZz92WJh4T349E=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2023/01/27/1450046/o-governador-mineiro-romeu-zema-do-novo_1_86036.jpg",
+            "publishedAt": "2023-01-27T18:41:00Z",
+            "content": "O governador de Minas Gerais, Romeu Zema (Novo), no participou da segunda parte da agenda do presidente Luiz Incio Lula da Silva (PT) com os chefes dos Executivos estaduais, nesta sexta-feira (27/1).… [+2222 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Cena de sexo oral, look Furacão 2000 e locação na Tijuquinha: o que se sabe sobre o novo clipe de Anitta - Globo",
+            "description": "Cantora e sua equipe gravaram em uma das comunidades visadas na guerra do tráfico com a milícia.",
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/01/27/cena-de-sexo-oral-look-furacao-2000-e-locacao-na-tijuquinha-o-que-se-sabe-sobre-o-novo-clipe-de-anitta.ghtml",
+            "urlToImage": "https://s2.glbimg.com/hhbMtFM7z77vqjhFHn15Otj0tbY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/8/6/ql62UBSvAewVDfaAGKiQ/whatsapp-image-2023-01-26-at-20.33.33.jpeg",
+            "publishedAt": "2023-01-27T18:31:40Z",
+            "content": "\"Trata-se de uma das cenas de um projeto audiovisual que ainda não podemos falar qual é. Ainda não podemos falar sobre este projeto\", informou a equipe da cantora ao g1.\r\n2 de 3\r\nAnitta em cena do cl… [+2978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Correiobraziliense.com.br"
+            },
+            "author": "Correio Braziliense",
+            "title": "Mulher de 24 anos morre depois de usar colher errada para mexer chá; entenda - Correio Braziliense",
+            "description": "Jovem estava fazendo uma viagem romântica para a África do Sul ao lado do noivo e tinha sido pedida em casamento poucos dias antes",
+            "url": "https://www.correiobraziliense.com.br/mundo/2023/01/5069366-mulher-de-24-anos-morre-depois-de-usar-colher-errada-para-mexer-cha-entenda.html",
+            "urlToImage": "https://midias.correiobraziliense.com.br/_midias/jpg/2023/01/27/675x450/1_mulher_britanica_morre_depois_de_usar_colher_errada_para_mexer_cha-27331545.jpg?20230127145223?20230127145223",
+            "publishedAt": "2023-01-27T18:09:00Z",
+            "content": "Uma mulher de 24 anos morreu ao usar a colher errada para mexer uma xícara de chá. A britânica Jess Prinsloo estava na África do Sul com o parceiro, Craig McKinnon, e tinha sido pedida em casamento a… [+1768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Valdemar Costa Neto ecoa Bolsonaro e confirma intenção golpista, analisa Josias - UOL",
+            "description": "Para o colunista do UOL Josias de Souza, Valdemar Costa Neto, líder do PL, ecoa Bolsonaro e confirma intenção golpista.-------------------------Bem-vindo ao ...",
+            "url": "https://www.youtube.com/watch?v=38RpZ-L7ORc",
+            "urlToImage": "https://i.ytimg.com/vi/38RpZ-L7ORc/maxresdefault.jpg",
+            "publishedAt": "2023-01-27T17:52:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Omelete.com.br"
+            },
+            "author": "Flávio Pinto",
+            "title": "The Last of Us é renovada para 2ª temporada pela HBO - Omelete",
+            "description": "The Last of Us é renovada para 2ª temporada pela HBO",
+            "url": "https://www.omelete.com.br/series-tv/the-last-of-us-renovada-segunda-temporada",
+            "urlToImage": "https://cdn.ome.lt/wnghkRkzWBICKP0qjpbvv39PJVU=/1200x630/smart/extras/conteudos/thelastofus-bellaramsey_KOvmwaQ.png",
+            "publishedAt": "2023-01-27T17:00:30Z",
+            "content": "A HBO anunciou hoje (27) que The Last of Us voltará para uma segunda temporada. O anúncio foi feito pelas redes, veja: \r\nA emissora não divulgou uma data para o retorno da série, mas presume-se que a… [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Agazeta.com.br"
+            },
+            "author": null,
+            "title": "Empresário preso pela PF no ES alugou ônibus para levar golpistas a Brasília - A Gazeta ES",
+            "description": "Valfrido Chieppe Dias fretou veículo que levou 45 passageiros para a capital do país durante ataques aos Três Poderes. Ônibus foi apreendido ainda na capital federal",
+            "url": "https://www.agazeta.com.br/es/politica/empresario-preso-pela-pf-no-es-alugou-onibus-para-levar-golpistas-a-brasilia-0123",
+            "urlToImage": "https://midias.agazeta.com.br/2023/01/27/valfrido-chieppe-dias-preso-pela-policia-federal-foi-responsavel-por-alugar-onibus-que-levou-golpistas-a-brasilia-958518.jpg",
+            "publishedAt": "2023-01-27T16:14:46Z",
+            "content": "Valfrido Chieppe Dias fretou veículo que levou 45 passageiros para a capital do país durante ataques aos Três Poderes. Ônibus foi apreendido ainda na capital federal\r\nPublicado em 27 de janeiro de 20… [+3985 chars]"
         },
         {
             "source": {
@@ -83,77 +213,12 @@
                 "name": "Uol.com.br"
             },
             "author": null,
-            "title": "Flávio culpa Pacheco por ataque golpista e diz que Bolsonaro não tem prazo para voltar ao Brasil - UOL",
-            "description": "Senador e filho do ex-presidente da República afirma que o pai está 'desopilando' nos EUA",
-            "url": "https://www1.folha.uol.com.br/poder/2023/01/flavio-culpa-pacheco-por-ataque-golpista-e-diz-que-bolsonaro-nao-tem-prazo-para-voltar-ao-brasil.shtml",
-            "urlToImage": "https://f.i.uol.com.br/fotografia/2023/01/28/167492916663d5640e5c87c_1674929166_3x2_rt.jpg",
-            "publishedAt": "2023-01-28T15:48:00Z",
-            "content": "O senador Flávio Bolsonaro (PL-RJ) afirmou neste sábado (28) que o pai, o ex-presidente Jair Bolsonaro (PL), está \"desopilando\" nos Estados Unidos e não tem data para ele voltar ao Brasil.\r\nA família… [+5892 chars]"
-        },
-        {
-            "source": {
-                "id": "globo",
-                "name": "Globo"
-            },
-            "author": null,
-            "title": "Ao menos três pessoas morrem em mais um tiroteio em massa na Califórnia - Globo",
-            "description": "Estado americano passa por mais um tiroteio em massa; foram quatro em janeiro, sendo três na última semana.",
-            "url": "https://g1.globo.com/mundo/noticia/2023/01/28/quarto-tiroteio-em-massa-na-california.ghtml",
-            "urlToImage": "https://s2.glbimg.com/D_Qra5OY-gbVXRWA44QtLDuA9sM=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/11308312.jpg",
-            "publishedAt": "2023-01-28T15:45:25Z",
-            "content": "Segundo a agência, o sargento Frank Preciado, do Departamento de Polícia de Los Angeles, confirmou que o tiroteio aconteceu às 2h30 da manhã (horário local), em Beverly Crest, um bairro nobre de Los … [+1056 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Netflu.com.br"
-            },
-            "author": "Redação, Redação",
-            "title": "Fluminense comunicou ao Fulham que André não está disponível no mercado - NETFLU",
-            "description": "Segundo informa o jornal \"O Globo\", o Fluminense informou ao Fulham que está não está disponível no mercado de transferências. A posição do clube segue",
-            "url": "https://www.netflu.com.br/fluminense-comunicou-ao-fulham-que-andre-nao-esta-disponivel-no-mercado/",
-            "urlToImage": "https://www.netflu.com.br/wp-content/uploads/2022/09/52391615280_24a804718f_k.jpg",
-            "publishedAt": "2023-01-28T14:47:39Z",
-            "content": "Segundo informa o jornal O Globo, o Fluminense informou ao Fulham que está não está disponível no mercado de transferências. A posição do clube segue sendo a de não vender o jogador neste momento, me… [+500 chars]"
-        },
-        {
-            "source": {
-                "id": "globo",
-                "name": "Globo"
-            },
-            "author": null,
-            "title": "Em anúncio conjunto, PP, PL e Republicanos declaram apoio a Marinho para presidente do Senado - Globo",
-            "description": "Ministro do Desenvolvimento Regional no governo Bolsonaro, Rogério Marinho concorre com Rodrigo Pacheco (atual presidente) e Eduardo Girão. Votação será em 1º de fevereiro.",
-            "url": "https://g1.globo.com/politica/noticia/2023/01/28/em-anuncio-conjunto-pp-republicanos-e-pl-anunciam-apoio-a-rogerio-marinho-para-presidente-do-senado.ghtml",
-            "urlToImage": "https://s2.glbimg.com/WqH4bD62wx_d3Yg3S66oW4-aeqc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/a/Y1XlAERN6OpUmLDV1SkA/whatsapp-image-2023-01-28-at-11.32.00.jpeg",
-            "publishedAt": "2023-01-28T14:30:58Z",
-            "content": "Ministro do Desenvolvimento Regional no governo Jair Bolsonaro, Rogério Marinho disputará a presidência do Senado com Rodrigo Pacheco (PSD-MG) atual presidente e Eduardo Girão (Podemos-CE). \r\nNas últ… [+1357 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uol.com.br"
-            },
-            "author": "Camila Turtelli;",
-            "title": "Justiça manda governo recontratar cubanos para o Mais Médicos - UOL Confere",
-            "description": "A Justiça determinou que o governo federal recontrate médicos cubanos que participavam do programa Mais Médicos e que tiveram o programa interrompido em 2018, após Cuba encerrar o contrato com o Brasil, na esteira da eleição de Jair Bolsonaro (PL) para a",
-            "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2023/01/28/justica-manda-governo-recontratar-cubanos-para-o-mais-medicos.htm",
-            "urlToImage": "https://conteudo.imguol.com.br/c/noticias/74/2018/12/05/mais-medicos-o-governo-de-cuba-fretou-20-voos-para-repatriar-os-medicos-do-pais-em-cidades-como-brasilia-sao-paulo-manaus-e-salvador-1544049104068_615x300.png",
-            "publishedAt": "2023-01-28T14:16:52Z",
-            "content": "A Justiça determinou que o governo federal recontrate médicos cubanos que participavam do programa Mais Médicos e que tiveram o programa interrompido em 2018, após Cuba encerrar o contrato com o Bras… [+2520 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "R7.com"
-            },
-            "author": "R7.com",
-            "title": "Núcleo da Terra 'freia', e cientistas questionam se sentido de rotação mudou - R7",
-            "description": "Em artigo da revista 'Nature Geoscience', cientistas chineses dizem que planeta diminuiu velocidade e está 'descompensado'",
-            "url": "http://noticias.r7.com/tecnologia-e-ciencia/nucleo-da-terra-freia-e-cientistas-questionam-se-sentido-de-rotacao-mudou-28012023",
-            "urlToImage": "https://img.r7.com/images/terra-lua-nasa-apollo-espaco-15102019155839083?crop_position=c&dimensions=340x191",
-            "publishedAt": "2023-01-28T13:55:00Z",
-            "content": "O núcleo interno é o lugar mais inacessível de nosso planeta, com condições extremas: sua temperatura pode até superar a da superfície do Sol. É uma bola sólida de ferro e níquel que gira, assim como… [+5468 chars]"
+            "title": "Contas públicas têm superávit de R$ 54,1 bilhões, o primeiro desde 2013 - UOL",
+            "description": "Governo reverte oito anos seguidos de rombo nas contas; perspectiva para 2023, porém, é negativa",
+            "url": "https://www1.folha.uol.com.br/mercado/2023/01/contas-publicas-tem-superavit-de-r-541-bilhoes-o-primeiro-desde-2013.shtml",
+            "urlToImage": "https://f.i.uol.com.br/fotografia/2021/11/25/163787658161a00365d2382_1637876581_3x2_md.jpg",
+            "publishedAt": "2023-01-27T16:13:00Z",
+            "content": "As contas do governo central tiveram um superávit de R$ 54,1 bilhões no ano de 2022, revertendo uma trajetória de oito anos consecutivos de déficit, informou o Tesouro Nacional nesta sexta-feira (27)… [+4441 chars]"
         },
         {
             "source": {
@@ -161,51 +226,25 @@
                 "name": "Lance.com.br"
             },
             "author": "LANCE!",
-            "title": "Técnico do Al-Nassr culpa Cristiano Ronaldo por derrota na Arábia Saudita - LANCE!",
-            "description": "Rudi García disse que o atacante poderia ter mudado os rumos do jogo",
-            "url": "https://www.lance.com.br/futebol-internacional/tecnico-do-al-nassr-culpa-cristiano-ronaldo-por-derrota-na-arabia-saudita.html",
-            "urlToImage": "https://www.lance.com.br/files/og_image/uploads/2023/01/28/63d51a34502e4.jpeg",
-            "publishedAt": "2023-01-28T13:00:35Z",
-            "content": "Técnico do Al-Nassr, Rudi García não poupou Cristiano Ronaldo de crítica após a derrota de sua equipe contra o Al-Ittihad na semifinal da Supercopa Saudita. Em coletiva, o treinador relembrou uma sit… [+1135 chars]"
+            "title": "Globo define narrador para a decisão entre Palmeiras e Flamengo pela Supercopa do Brasil - LANCE!",
+            "description": "Decisão da Supercopa do Brasil no Mané Garrincha, em Brasília, será neste sábado, às 16h30<br>",
+            "url": "https://www.lance.com.br/fora-de-campo/globo-define-narrador-para-a-decisao-entre-palmeiras-e-flamengo-pela-supercopa-do-brasil.html",
+            "urlToImage": "https://www.lance.com.br/files/og_image/uploads/2020/11/05/5fa40ea7c8170.jpeg",
+            "publishedAt": "2023-01-27T15:27:10Z",
+            "content": "A TV Globo bateu o martelo e definiu quem será o narrador da decisão da Supercopa do Brasil, entre Palmeiras e Flamengo. Cleber Machado comandará a partida entre os rivais, neste sábado, no Mané Garr… [+1064 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Uol.com.br"
+                "name": "Escolaeducacao.com.br"
             },
-            "author": "Tatyane Malta;",
-            "title": "Lista: Os famosos que Key Alves já contou no BBB 23 que ficou aqui fora - Splash",
-            "description": "Dentro do BBB 23 (Globo) Key Alves já contou sobre alguns romances aqui fora. Da última vez, antes do show de Skank, a jogadora de vôlei sussurrou com Domitila um nome do seu 'top 3 de ficadas' e perdeu estalecas — já que é proibido cochichar os sus",
-            "url": "https://www.uol.com.br/splash/noticias/2023/01/28/lista-os-famosos-que-key-alves-ja-contou-do-bbb-23-que-ficou-aqui-fora.htm",
-            "urlToImage": "https://conteudo.imguol.com.br/c/entretenimento/58/2023/01/24/bbb-23-key-alves-ganhou-cueca-de-gustavo-1674585177753_v2_615x300.png",
-            "publishedAt": "2023-01-28T12:38:01Z",
-            "content": "Dentro do BBB 23 (Globo) Key Alves já contou sobre alguns romances aqui fora. Da última vez, antes do show de Skank, a jogadora de vôleisussurrou com Domitila um nome do seu 'top 3 de ficadas' e perd… [+207 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bolavip"
-            },
-            "author": "Ana Lima",
-            "title": "Show RBD: Após confusão em filas, Procon entra em caso e pede informações sobre venda de ingressos para Eve... - Bolavip Brasil",
-            "description": "Venda de ingressos para evento causou briga generalizada entre fãs do grupo",
-            "url": "https://br.bolavip.com/entretenimento/Show-RBD-Apos-confusao-em-filas-Procon-entra-em-caso-e-pede-informacoes-sobre-venda-de-ingressos-para-Eventim-20230128-0005.html",
-            "urlToImage": "https://bolavip.com/__export/1674906674042/sites/bolavip/img/2023/01/28/fxvim02uyamdfwe_1.jpg_242310155.jpg",
-            "publishedAt": "2023-01-28T11:51:17Z",
-            "content": "Sensação entre os jovens nos anos 2000, a banda mexicana RBDanunciou recentemente seu retorno para uma turnê mundial Soy Rebelde Tour, passando pelos principais países onde fez sucesso, incluindo o B… [+898 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Mulher britânica morre e corpo é encontrado só três anos depois em apartamento - BBC News Brasil",
-            "description": "Laura Winham sofria de esquisofrenia e havia recusado contato com sua família porque pensava que eles estavam tentando prejudicá-la. Seus irmãos acusam os serviços de saúde e assistência social de negligência.",
-            "url": "https://www.bbc.com/portuguese/internacional-64340289",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/11529/production/_128435907_laura-winham.jpg",
-            "publishedAt": "2023-01-28T11:37:19Z",
-            "content": "Crédito, Hudgell Solicitors\r\nLegenda da foto, Laura Winham tinha esquizofrenia e não queria ter contato com a família\r\nO cadáver de uma mulher britânica que sofria de doença mental foi encontrado em … [+2747 chars]"
+            "author": "Agência Texty",
+            "title": "Tipos de farinhas para diabéticos: Elas absorvem o açúcar no sangue! - Escola Educação",
+            "description": "A tradicional farinha de trigo é uma das principais contraindicações para pessoas diabéticas. Isso porque ela contém alto teor glicêmico e poucas fibras, uma combinação que intensifica o quadro da doença. Por isso, essas pessoas precisam fugir de mas",
+            "url": "https://escolaeducacao.com.br/tipos-de-farinhas-para-diabeticos-estas-farinhas-absorvem-o-acucar-no-sangue/",
+            "urlToImage": "https://escolaeducacao.com.br/wp-content/uploads/2023/01/tipos-de-farinhas-para-diabeticos-estas-farinhas-absorvem-o-acucar-no-sangue-1024x576.png",
+            "publishedAt": "2023-01-27T15:06:01Z",
+            "content": "A tradicional farinha de trigo é uma das principais contraindicações para pessoas diabéticas. Isso porque ela contém alto teor glicêmico e poucas fibras, uma combinação que intensifica o quadro da do… [+1955 chars]"
         },
         {
             "source": {
@@ -213,50 +252,11 @@
                 "name": "Globo"
             },
             "author": null,
-            "title": "Vistoria dos Bombeiros veta realização de ensaios técnicos no Sambódromo do Rio - Globo",
-            "description": "Restrição tem caráter imediato. Corporação afirma que ‘pista não apresenta as condições mínimas de segurança’. Vistoria aconteceu após decisão da Justiça que determinou que documentação do local fosse apresentada em 24 horas.",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/01/28/vistoria-dos-bombeiros-veta-realizacao-de-ensaios-tecnicos-no-sambodromo-do-rio.ghtml",
-            "urlToImage": "https://s2.glbimg.com/oAR49dAb-0cGX5tPT6bh6WXQnv4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/k/o/JEl28bQJSUwas1FL2JiA/dsc0058.jpg",
-            "publishedAt": "2023-01-28T11:16:38Z",
-            "content": "Entre os problemas apontados pelos bombeiros estão defeitos nos volantes de acionamento dos hidrantes dos setores 5,6 e 9. Os fiscais também destacaram que não encontraram conectores e mangueiras em … [+2369 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Luisa Purchio",
-            "title": "Os impactos do erro bilionário do Banco Central na economia do país - VEJA",
-            "description": "Economistas explicam a importância do erro de cálculo de 14,5 bilhões de reais no fluxo cambial cometido pela autoridade monetária",
-            "url": "https://veja.abril.com.br/economia/os-impactos-do-erro-bilionario-do-banco-central-na-economia-do-pais/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2022/04/000_9P43V8.jpg?quality=70&strip=info&w=680&h=453&crop=1",
-            "publishedAt": "2023-01-28T11:00:33Z",
-            "content": "Divulgado na quinta-feira, 26, pelo Banco Central em coletiva de imprensa, o erro de cálculo no total de 14,5 bilhões de reais no mercado de câmbio contratado entre outubro de 2021 a dezembro de 2022… [+2755 chars]"
-        },
-        {
-            "source": {
-                "id": "globo",
-                "name": "Globo"
-            },
-            "author": null,
-            "title": "São Paulo x Corinthians: Rogério Ceni fez Renato Augusto rever planos para carreira como técnico - Globo.com",
-            "description": "Meia e ex-goleiro estiveram juntos na seleção brasileira em 2016, durante a Copa América",
-            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2023/01/28/sao-paulo-x-corinthians-rogerio-ceni-fez-renato-augusto-rever-planos-para-carreira-como-tecnico.ghtml",
-            "urlToImage": "https://s2.glbimg.com/eEGsjRNwoq-eIO2J5KYcPJqv9h0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/u/0/F1qRysR0S5fyAWEVqplw/carrossel-rogerio-ceni-e-renato-augusto.jpg",
-            "publishedAt": "2023-01-28T11:00:24Z",
-            "content": "A dupla já se enfrentou diversas vezes, desde os tempos em que o ídolo tricolor ainda era goleiro, mas um dos capítulos mais especiais - e desconhecidos - dessa relação foi escrito quando eles estava… [+3012 chars]"
-        },
-        {
-            "source": {
-                "id": "globo",
-                "name": "Globo"
-            },
-            "author": null,
-            "title": "Após atentado terrorista, novo ataque deixa dois feridos em Jerusalém - Globo",
-            "description": "Palestino atirou contra duas pessoas perto do centro histórico da cidade, segundo polícia israelense.",
-            "url": "https://g1.globo.com/mundo/noticia/2023/01/28/apos-atentado-terrorista-novo-ataque-deixa-dois-feridos-em-jerusalem.ghtml",
-            "urlToImage": "https://s2.glbimg.com/Z26qaUfE3tAoJSEqgx0BZKRzf3M=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/11319251.jpg",
-            "publishedAt": "2023-01-28T10:44:28Z",
-            "content": "Um palestino abriu fogo contra pessoas que passavam pela rua perto do centro histórico da cidade, ainda de acordo com a polícia. \r\nAs duas vítimas, de 23 e 47 anos, ficaram gravemente feridas, afirmo… [+1543 chars]"
+            "title": "Busca pelo rotativo do cartão de crédito bate novo recorde em 2022, informa Banco Central - Globo",
+            "description": "Foram concedidos no ano passado R$ 341,7 bilhões em crédito por meio do rotativo, que é a linha com a maior taxa de juros do mercado.",
+            "url": "https://g1.globo.com/economia/noticia/2023/01/27/busca-pelo-rotativo-do-cartao-de-credito-bate-novo-recorde-em-2022-informa-banco-central.ghtml",
+            "urlToImage": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1",
+            "publishedAt": "2023-01-27T14:43:32Z",
+            "content": "A série histórica da instituição, para anos fechados, tem início em 2012. Com isso, esse é o maior patamar em onze anos. \r\nO crédito rotativo do cartão de crédito é acionado por quem não consegue pag… [+2294 chars]"
         }
     ]
