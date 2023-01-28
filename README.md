@@ -89,15 +89,11 @@ git clone git@github.com:DuAlexandre/app-dio-news.git
 
 <br>
 
-<p align="center">
-  <img src="./AppDIONews/SupportingFiles/pics/Captura de Tela 2023-01-28 às 18.45.51" alt="print1">
-</p>
+<img src="https://github.com/DuAlexandre/app-dio-news/blob/main/AppDIONews/SupportingFiles/pics/Captura%20de%20Tela%202023-01-28%20%C3%A0s%2018.45.51.png?raw=true">
 
 <br>
 
-<p align="center">
-  <img src="./AppDIONews/SupportingFiles/pics/print20.png" alt="print2">
-</p>
+<img align="center" src="https://github.com/DuAlexandre/app-dio-news/blob/main/AppDIONews/SupportingFiles/pics/Captura%20de%20Tela%202023-01-28%20%C3%A0s%2018.46.49.png?raw=true">
 
 <br>
 
@@ -106,7 +102,7 @@ git clone git@github.com:DuAlexandre/app-dio-news.git
 
 Projeto ministrado por:
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a target="_blank" href="https://www.linkedin.com/in/moreirarobson/">
@@ -127,7 +123,7 @@ Projeto ministrado por:
 
 Projeto desenvolvido por:
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a target="_blank" href="https://www.linkedin.com/in/eduardo-alexandre025/">
