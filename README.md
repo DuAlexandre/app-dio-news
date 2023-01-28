@@ -1,3 +1,4 @@
+<a id='ancora'></a>
 # Projeto - App DIO News
 
 <br><br>
@@ -9,13 +10,13 @@
 - [Execução](#ancora5) <br>
 - [Prints de Execução](#ancora6) <br>
 - [Sobre o Professor](#ancora7) <br>
-- [Desenvolvedor](#ancora9)
+- [Desenvolvedor](#ancora8)
 
 <br><br>
 
 <a id="ancora1"></a>
 
-<center><img src="./AppDIONews/SupportingFiles/pics/dio.png" ></center>
+<img align="center" src="./AppDIONews/SupportingFiles/pics/dio.png" >
 
 <br>
 
@@ -28,6 +29,11 @@ A missão da DIO é criar novas possibilidades para pessoas e organizações de 
 <br>
 
 <a id="ancora2"></a>
+
+<img align="center" src="./AppDIONews/SupportingFiles/pics/SWIFT.jpeg" >
+
+<br>
+
 ## Sobre a Formação Swift & iOS Experience 👨🏽‍💻
 
 <br>
@@ -79,4 +85,54 @@ git clone git@github.com:DuAlexandre/app-dio-news.git
 
 <br>
 
-<center><img src="./prints/print1.png" ></center>
+<img align="center" src="./AppDIONews/SupportingFiles/pics/print2.jpeg" >
+
+<br>
+
+<img align="center" src="./AppDIONews/SupportingFiles/pics/print1.jpeg" >
+
+<br>
+
+<a id="ancora7"></a>
+## Sobre o Professor 🧑‍🏫
+
+Projeto ministrado por:
+
+<table>
+  <tr>
+    <td align="center">
+      <a target="_blank" href="https://www.linkedin.com/in/moreirarobson/">
+        <img src="https://avatars.githubusercontent.com/u/5639827?v=4" width="100px;" alt=""/><br>
+        <sub>
+          <b>Robson Moreira</b>
+          <p>Specialist iOS Developer | Tech Lead Mobile</p>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<a id="ancora8"></a>
+## Desenvolvedor 🤝
+
+Projeto desenvolvido por:
+
+<table>
+  <tr>
+    <td align="center">
+      <a target="_blank" href="https://www.linkedin.com/in/eduardo-alexandre025/">
+        <img src="https://avatars.githubusercontent.com/u/95940707?s=96&v=4" width="100px;" alt=""/><br>
+        <sub>
+          <b>Eduardo Alexandre</b>
+           <p>Back-End</p>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+[Voltar ao Topo](#ancora)
