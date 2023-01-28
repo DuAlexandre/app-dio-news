@@ -16,11 +16,13 @@
 
 <a id="ancora1"></a>
 
-<img align="center" src="./AppDIONews/SupportingFiles/pics/dio.png" >
+## Sobre a DIO 🏫
 
 <br>
 
-## Sobre a DIO 🏫
+<p align="center">
+  <img src="./AppDIONews/SupportingFiles/pics/dio.png" alt="dio-logo">
+</p>
 
 <br>
 
@@ -30,11 +32,13 @@ A missão da DIO é criar novas possibilidades para pessoas e organizações de 
 
 <a id="ancora2"></a>
 
-<img align="center" src="./AppDIONews/SupportingFiles/pics/SWIFT.jpeg" >
+## Sobre a Formação Swift & iOS Experience 👨🏽‍💻
 
 <br>
 
-## Sobre a Formação Swift & iOS Experience 👨🏽‍💻
+<p align="center">
+  <img src="./AppDIONews/SupportingFiles/pics/SWIFT.jpeg" alt="formation-logo">
+</p>
 
 <br>
 
@@ -85,11 +89,15 @@ git clone git@github.com:DuAlexandre/app-dio-news.git
 
 <br>
 
-<img align="center" src="./AppDIONews/SupportingFiles/pics/print2.jpeg" >
+<p align="center">
+  <img src="./AppDIONews/SupportingFiles/pics/print2.png" alt="print1">
+</p>
 
 <br>
 
-<img align="center" src="./AppDIONews/SupportingFiles/pics/print1.jpeg" >
+<p align="center">
+  <img src="./AppDIONews/SupportingFiles/pics/print1.png" alt="print2">
+</p>
 
 <br>
 
