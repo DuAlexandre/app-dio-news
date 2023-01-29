@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img src="./AppDIONews/SupportingFiles/pics/dio.png" alt="dio-logo">
+  <img width="300px" src="https://hermes.digitalinnovation.one/users/company/3a52d6e3-a58c-4755-89c9-fbc093a8868f.png" alt="dio-logo">
 </p>
 
 <br>
