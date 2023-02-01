@@ -130,7 +130,7 @@ Projeto desenvolvido por:
         <img src="https://avatars.githubusercontent.com/u/95940707?s=96&v=4" width="100px;" alt=""/><br>
         <sub>
           <b>Eduardo Alexandre</b>
-           <p>Back-End</p>
+           <p>Back-End | iOS Developer</p>
         </sub>
       </a>
     </td>
